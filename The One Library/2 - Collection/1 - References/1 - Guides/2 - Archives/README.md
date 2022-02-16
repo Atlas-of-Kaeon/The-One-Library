@@ -1,7 +1,7 @@
 # Archive Links
 
-This document provides links to external archives. Many of the texts in the Library of Github's
-core section were sourced from them.
+This document provides links to external archives. Many of the texts in the One Library's core
+section were sourced from them.
 
 ## Project Gutenberg: [https://www.gutenberg.org/]
 

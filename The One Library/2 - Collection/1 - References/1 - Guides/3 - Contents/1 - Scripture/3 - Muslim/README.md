@@ -97,5 +97,4 @@ special religious and political authority by believers, with the Shia asserting 
 and the Sunni asserting that they should not. Between the two, Sunni Islam is the larger branch by
 far, accounting for between 85 and 90 percent of all Muslims.
 
-The version of the Quran hosted on the Library of Github was translated into English by Talal
-Itani.
+The version of the Quran hosted on the One Library was translated into English by Talal Itani.

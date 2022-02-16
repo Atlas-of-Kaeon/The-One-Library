@@ -1,6 +1,6 @@
 <h1 align="center">Jewish Scripture Commentary</h1>
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Library-of-Github/Library-of-Github/master/Library%20of%20Github/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/1%20-%20The%20Tanakh/1%20-%20The%20Torah/The%20Torah.one">1: The Torah</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/1%20-%20The%20Tanakh/1%20-%20The%20Torah/The%20Torah.one">1: The Torah</a></h2>
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Torah_Hebraica.png" height="300px"/>
@@ -49,17 +49,17 @@ briefly lost faith in God during the wandering, he was granted permission to see
 before dying on the summit of Mount Nebo.
 
 The commandments given by God throughout the Torah, which form the framework for the Jewish
-religion, were later codified into [613 distinct commandments](https://github.com/Library-of-Github/Library-of-Github/blob/master/Library%20of%20Github/1%20-%20Core/1%20-%20Literature/2%20-%20References/1%20-%20Abrahamic%20Faiths/1%20-%20References/1%20-%20Commandments/2%20-%20The%20613%20Commandments/The%20613%20Commandments.one)
+religion, were later codified into [613 distinct commandments](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/2%20-%20References/1%20-%20Abrahamic%20Faiths/1%20-%20References/1%20-%20Commandments/2%20-%20The%20613%20Commandments/The%20613%20Commandments.one)
 by the Jewish scholar Maimonides.
 
 The Torah was originally written in biblical Hebrew, and modern copies are traditionally written by
 hand on leather parchment scrolls by highly trained religious scribes for use in synagogues.
 
-The English translation hosted on the Library of Github uses the text of the King James bible. It
+The English translation hosted on the One Library uses the text of the King James bible. It
 should noted that, despite being its most famous English translation, it sometimes criticized for
 displaying Christian bias.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Library-of-Github/Library-of-Github/master/Library%20of%20Github/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/1%20-%20The%20Tanakh/2%20-%20The%20Prophets%20and%20the%20Writings/The%20Prophets%20and%20the%20Writings.one">2: The Prophets and the Writngs</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/1%20-%20The%20Tanakh/2%20-%20The%20Prophets%20and%20the%20Writings/The%20Prophets%20and%20the%20Writings.one">2: The Prophets and the Writngs</a></h2>
 
 <p align="center">
 	<img src="https://i.pinimg.com/originals/07/09/60/070960f088ae3a44339d84b874abee7a.jpg" height="300px"/>
@@ -88,12 +88,12 @@ It was traditionally written on 19 separate scrolls in biblical Hebrew, although
 Christianity usually divide its contents into 34 separate books today. Jewish translations arrange
 them in their traditional order, whereas Christian bibles use the Greek ordering.
 
-The English translation hosted on the Library of Github uses the text of the King James bible,
+The English translation hosted on the the One Library uses the text of the King James bible,
 although it orders the books according to the traditional Jewish arrangement. It should be noted
 that the criticism that applies to the King James bible regarding the Torah may apply to a greater
 extent regarding the Prophets, as they are directly tied to Jesus in Christian tradition.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Library-of-Github/Library-of-Github/master/Library%20of%20Github/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/1%20-%20The%20Mishnah/The%20Mishnah.one">3: The Mishnah</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/1%20-%20The%20Mishnah/The%20Mishnah.one">3: The Mishnah</a></h2>
 
 <p align="center">
 	<img src="https://web.nli.org.il/sites/NLI/Hebrew/library/reading_corner/PublishingImages/daf_gemara/Bomberg%20Babylonian%20Talmud%20Venice%20Pesachim%201520%2035%20V%204087%20c.jpg" height="300px"/>
@@ -111,7 +111,7 @@ although the Babylonian version is by far the more common one. While the Mishnah
 Hebrew, the Gemara is written in Aramaic. Modern printings of the Talmud also include later
 rabbinical commentary on the Gemara, most notably from the French Rabbinical scholar Rashi.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Library-of-Github/Library-of-Github/master/Library%20of%20Github/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/2%20-%20The%20Zohar/The%20Zohar.one">4: The Zohar</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/2%20-%20The%20Zohar/The%20Zohar.one">4: The Zohar</a></h2>
 
 <p align="center">
 	<img src="https://jewishreviewofbooks.com/wp-content/uploads/2018/09/Fishbane2a.jpg" height="300px"/>
