@@ -100,7 +100,7 @@ relate to the Old Testament, although most Jews do not recognize them as relaven
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Mormon-book.jpg" height="300px"/>
 </p>
 
-The Book of Mormon is the defining sacred text of the Church of Jesus Christ of Letter-Day Saints,
+The Book of Mormon is the defining sacred text of the Church of Jesus Christ of Latter-Day Saints,
 also known as LDS, or as commonly known outside the faith, the Mormons.
 
 The LDS church, which is itself a branch of protestant Christianity, considers the Book of Mormon
