@@ -13,83 +13,669 @@
 		Principles
 	-
 		-
-			Contents
+			Conventions
 		-
 			-
-				The Core
+				Contents
 			-
 				-
-					The Core section of the One Library contains all of the Library's plain text
-					written documents, including its archived texts and references for them.
+					The Core
+				-
+					-
+						The Core section of the One Library contains all of the Library's plain
+						text written documents, including its archived texts and references for
+						them.
+					-
+				-
+					The Collection
+				-
+					-
+						The Collection Section of the One Library contains all of the Library's
+						assets that are not plain text documents.
+						
+						In addition to its digital asset archive, it also contains links to various
+						external archives, references to external assets, commentary on the
+						contents of the core.
+					-
+			-
+				Format
+			-
+				-
+					All of the written documents in the library have been mapped to the ONE and
+					ONE+ text formats, which is where the One Library gets its name from.
+					
+					ONE uses minus signs and tab indentation to separate text into a hierarchy of
+					"blocks" without relying on any escape characters.
+					
+					ONE+ is a superset of ONE which provides more ways to encode text blocks, and
+					is thus easier to write manually.
+					
+					This format allows the documents to be easily read as plain text, to clearly
+					convey the structure of their content, and to be easily scraped by computer
+					programs.
+					
+					The documents in the library will generally follow a convention where a
+					"Philosophy" section is used to state the overall purpose of the document, and
+					a "Principles" section in used to contain the main content of the document.
+					
+					The text of said documents will generally be wrapped at one hundred characters,
+					assuming the width of each tab is four characters.
 				-
 			-
-				The Collection
+				Spliced Content
 			-
 				-
-					The Collection Section of the One Library contains all of the Library's assets
-					that are not plain text documents.
-
-					In addition to its digital asset archive, it also contains links to various
-					external archives, references to external assets, commentary on the contents of
-					the core.
+					Many of the documents in the library were originally written in languages other
+					than English.
+					
+					As such, the library will generally use the most universally respected English
+					translations of them.
+					
+					If there is no clear standard for an English translation of a given text, the
+					library may use a custom amalgamation of various translations.
+					
+					Occasionally, it may use one standard for the text itself and a different
+					standard for the layout of the text.
+				-
+			-
+				Motto
+			-
+				-
+					The motto of the One Library is "Love of Wisdom".
+				-
+			-
+				Disclaimer
+			-
+				-
+					Some of the texts contained within the library contain sensitive and
+					controversial content that may understandably offend some people.
+					
+					The One Library does not condone any form of discrimination, hatred, violence,
+					or supremacy.
+					
+					However the One Library does hold that even the most sinister of texts must be
+					preserved so that we may learn from them and from their impact on history. To
+					destroy or censor them would be akin to book burning, and, as it is commonly
+					said, where books are burned, people will also be burned in the end.
 				-
 		-
-			Format
+			Catalogue
 		-
 			-
-				All of the written documents in the library have been mapped to the ONE and ONE+
-				text formats, which is where the One Library gets its name from.
-
-				ONE uses minus signs and tab indentation to separate text into a hierarchy of
-				"blocks" without relying on any escape characters.
-
-				ONE+ is a superset of ONE which provides more ways to encode text blocks, and is
-				thus easier to write manually.
-
-				This format allows the documents to be easily read as plain text, to clearly convey
-				the structure of their content, and to be easily scraped by computer programs.
-
-				The documents in the library will generally follow a convention where a
-				"Philosophy" section is used to state the overall purpose of the document, and a
-				"Principles" section in used to contain the main content of the document.
-				
-				The text of said documents will generally be wrapped at one hundred characters,
-				assuming the width of each tab is four characters.
+				Assets
 			-
-		-
-			Spliced Content
-		-
-			-
-				Many of the documents in the library were originally written in languages other
-				than English.
-
-				As such, the library will generally use the most universally respected English
-				translations of them.
-
-				If there is no clear standard for an English translation of a given text, the
-				library may use a custom amalgamation of various translations.
-
-				Occasionally, it may use one standard for the text itself and a different standard
-				for the layout of the text.
-			-
-		-
-			Motto
-		-
-			-
-				The motto of the One Library is "Love of Wisdom".
-			-
-		-
-			Disclaimer
-		-
-			-
-				Some of the texts contained within the library contain sensitive and controversial
-				content that may understandably offend some people.
-
-				The One Library does not condone any form of discrimination, hatred, violence, or
-				supremacy.
-				
-				However the One Library does hold that even the most sinister of texts must be
-				preserved so that we may learn from them and from their impact on history. To
-				destroy or censor them would be akin to book burning, and, as it is commonly said,
-				where books are burned, people will also be burned in the end.
-			-
+				-
+					The Torah
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian, Common,
+							The Tanakh, The Torah
+						-
+				-
+					The Prophets and the Writings
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian, Common,
+							The Tanakh, The Prophets and the Writings
+						-
+				-
+					The Mishnah
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Jewish, The Mishnah
+						-
+				-
+					The Zohar
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Jewish, The Zohar
+						-
+				-
+					The New Testament
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Common, The New Testament
+						-
+				-
+					The Nicene Creed
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Common, The Nicene Creed
+						-
+				-
+					The Nicene Creed
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Specific, The Apocrypha
+						-
+				-
+					The Book of Mormon
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Specific, LDS, Book of Mormon
+						-
+				-
+					Commentary on the Book of Mormon
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Specific, LDS, Book of Mormon, Mormon Commentary
+						-
+				-
+					The Testimony of the Three Witnesses
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Specific, LDS, Book of Mormon, Testimony, Three
+						-
+				-
+					The Testimony of the Eight Witnesses
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Specific, LDS, Book of Mormon, Testimony, Eight
+						-
+				-
+					The Testimony of the Prophet Joseph Smith
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
+							Specific, Christian, Specific, LDS, Book of Mormon, Testimony, Joseph
+							Smith
+						-
+				-
+					The Quran
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Islam, The Quran
+						-
+				-
+					The Kitab-i-Aqdas
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Abrahamic, Islam, The Bahai Faith,
+							The Kitab-i-Aqdas
+						-
+				-
+					The Rig Veda
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Rig Veda
+						-
+				-
+					The Yajur Veda
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Yajur Veda
+						-
+				-
+					The Sama Veda
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Sama Veda
+						-
+				-
+					The Atharva Veda
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Atharva Veda
+						-
+				-
+					The Tao Te Ching
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Chinese, Taoism, Tao Te Ching
+						-
+				-
+					The Epic of Gilgamesh
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Mesopotamian, The Epic of Gilgamesh
+						-
+				-
+					The Rosetta Stone
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Folk, Pagan, Polytheistic, Kemetic,
+							The Rosetta Stone
+						-
+				-
+					The Theogony
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Hellenic, Hesiod, The Theogony
+						-
+				-
+					The Iliad
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Hellenic, Homer, The Iliad
+						-
+				-
+					The Odyssey
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Hellenic, Homer, The Odyssey
+						-
+				-
+					Völuspá
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, Folk, Pagan, Polytheistic, Nordic,
+							Poetic Edda, Völuspá
+						-
+				-
+					The Wiccan Rede
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, New, Neopaganism, Wicca, The Wiccan
+							Rede
+						-
+				-
+					The Charge of the Goddess
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, New, Neopaganism, Wicca, Charges,
+							The Charge of the Goddess
+						-
+				-
+					The Charge of the God
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, New, Neopaganism, Wicca, Charges,
+							The Charge of the God
+						-
+				-
+					The Gardnerian Book of Shadows
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, New, Neopaganism, Wicca, Book of
+							Shadows, Gardnerian
+						-
+				-
+					The Tenets of Unitarian Universalism
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Scripture, New, Liberal Religion, Unitarian
+							Universalism, The Tenets of Unitarian Universalism
+						-
+				-
+					The Republic
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Discourse, Philosophy, Ancient, Greek, Plato,
+							The Republic
+						-
+				-
+					On the Origin of Species
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Discourse, Science, Biology, Evolution, On the
+							Origin of Species
+						-
+				-
+					The Art of War
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Discourse, Politics, Military, Ancient, Sun
+							Tzu, The Art of War
+						-
+				-
+					The Communist Manifesto
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Discourse, Politics, Economics, The Communist
+							Manifesto
+						-
+				-
+					The Charter of the United Nations
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, Global, The United Nations, Charter
+						-
+				-
+					The Universal Declaration of Human Rights
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, Global, The United Nations, Universal
+							Declaration of Human Rights
+						-
+				-
+					The Declaration of Independence
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, National, Active, North America, The
+							United States of America, Organic Laws, Pre-Constitutional, Declaration
+							of Independence
+						-
+				-
+					The Articles of Confederation
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, National, Active, North America, The
+							United States of America, Organic Laws, Pre-Constitutional, Articles of
+							Confederation
+						-
+				-
+					The Ordinance of 1787 for The Northwest Territorial Government
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, National, Active, North America, The
+							United States of America, Organic Laws, Pre-Constitutional, The
+							Ordinance of 1787
+						-
+				-
+					The Constitution of the United States of America
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, National, Active, North America, The
+							United States of America, Organic Laws, Constitution
+						-
+				-
+					Magna Carta
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, National, Active, Europe, Magna Carta
+						-
+				-
+					The Declaration of Independence of the State of Israel
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, National, Active, Asia, Israel,
+							Declaration of Independence
+						-
+				-
+					The Weimar Constitution
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, Historical, Europe, Germany, Weimar
+							Constitution
+						-
+				-
+					The Reichstag Fire Decree
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, Historical, Europe, Germany, Weimar
+							Constitution, Nazi Policy, The Reichstag Fire Decree
+						-
+				-
+					The Enabling Act of 1933
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Law, Historical, Europe, Germany, Weimar
+							Constitution, Nazi Policy, The Enabling Act of 1933
+						-
+				-
+					South Carolina Ordinance of Secession
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, American Wars, Civil War,
+							Secession, South Carolina
+						-
+				-
+					The Emancipation Proclamation
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, American Wars, Civil War,
+							Orders, The Emancipation Proclamation
+						-
+				-
+					The Civil War Terms of Surrender
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, American Wars, Civil War,
+							Surrender, Terms
+						-
+				-
+					The Civil War Acceptance of Surrender
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, American Wars, Civil War,
+							Surrender, Acceptance
+						-
+				-
+					To My Peoples
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, World Wars, WWI, To My
+							Peoples
+						-
+				-
+					The Molotov-Ribbentrop Pact
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, World Wars, WWII, Official
+							Documents, International, The Molotov-Ribbentrop pact
+						-
+				-
+					The Japanese Instrument of Surrender
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, World Wars, WWII, Official
+							Documents, International, The Japanese Instrument of Surrender
+						-
+				-
+					The Szilard Petition
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, World Wars, WWII, Official
+							Documents, Domestic, The Szilard Petition
+						-
+				-
+					Anne Frank - The Diary of a Young Girl
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Historical, Wars, World Wars, WWII, Accounts,
+							Anne Frank, The Diary of a Young Girl
+						-
+				-
+					Nightmare Number Three
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Expressive, Poetry, Stephen Vincent Benet,
+							Nightmare Number Three
+						-
+				-
+					TEDAgame - Piano Sounds
+				-
+					-
+						Path
+					-
+						-
+							Collection, Assets, Art, Audio, Sound Effects, Instruments, Piano,
+							TEDAgame
+						-
+				-
+					arioke - Kalimba Sounds
+				-
+					-
+						Path
+					-
+						-
+							Collection, Assets, Art, Audio, Sound Effects, Instruments, Kalimba,
+							arioke
+						-
+				-
+					The Mona Lisa
+				-
+					-
+						Path
+					-
+						-
+							Collection, Assets, Art, Visual, Mona Lisa
+						-
