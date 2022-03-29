@@ -21,8 +21,8 @@ text documents.
 
 In addition to its [digital asset archive](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Collection/2%20-%20Assets/1%20-%20Art/1%20-%20Audio/1%20-%20Sound%20Effects/1%20-%20Instruments),
 it also contains [links to various external archives](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/1%20-%20Guides/2%20-%20Archives/README.md),
-[references to external assets](https://github.com/Atlas-of-Kaeon/The-One-Library/tree/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/2%20-%20Items),
-and [commentary on the contents of the core](https://github.com/Atlas-of-Kaeon/The-One-Library/tree/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/1%20-%20Guides/3%20-%20Contents/README.md).
+[references to external assets](https://github.com/Atlas-of-Kaeon/The-One-Library/tree/master/The%20One%20Library/2%20-%20Collection/2%20-%20Assets),
+and [commentary on the contents of the core](https://github.com/Atlas-of-Kaeon/The-One-Library/tree/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/2%20-%20Navigation/README.md).
 
 <h3>Format</h3>
 
