@@ -49,7 +49,7 @@ briefly lost faith in God during the wandering, he was granted permission to see
 before dying on the summit of Mount Nebo.
 
 The commandments given by God throughout the Torah, which form the framework for the Jewish
-religion, were later codified into [613 distinct commandments](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/2%20-%20References/1%20-%20Abrahamic%20Faiths/1%20-%20References/1%20-%20Commandments/2%20-%20The%20613%20Commandments/The%20613%20Commandments.one)
+religion, were later codified into [613 distinct commandments](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/2%20-%20Commentary/1%20-%20References/1%20-%20Abrahamic%20Faiths/1%20-%20Commandments/2%20-%20The%20613%20Commandments/The%20613%20Commandments.one)
 by the Jewish scholar Maimonides.
 
 The Torah was originally written in biblical Hebrew, and modern copies are traditionally written by
