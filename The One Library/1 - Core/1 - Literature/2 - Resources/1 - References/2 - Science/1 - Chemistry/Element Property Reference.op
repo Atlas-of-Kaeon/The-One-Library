@@ -1,0 +1,945 @@
+Element Property Reference
+	
+	Philosophy
+		
+		-
+			This reference document lists all known elements, along with their properties, by order
+			of their atomic numbers.
+
+			The content of this Reference was sourced from Paul Nathan at "http://pnathan.com/".
+		-
+
+	Principles
+
+		1: Nomenclature { Name { Hydrogen }, Symbol { H } }, Properties
+
+			Atomic Radius: '79'; Atomic Weight: '1.00794'; Boiling Point: '20.28'
+			Covalent Radius: '32'; Density: '0.0708 (@ -253degC)'; Electronic Configuration: '1s¹'
+			First Ionisation Energy: '1311.3'; Heat Evaporation: '0.904 (H-H)'
+			Heat Fusion: '0.117 (H-H)'; Lattice: 'HEX'; Lattice Constant: '3.75'
+			Melting Point: '14.01'; Oxidation States: '1 -1'; Pauling Electronegativity: '2.2'
+			Specific Heat: '14.267 (H-H)'; Specific Volume: '14.1'; Thermal Conductivity: '0.1815'
+
+		2: Nomenclature { Name { Helium }, Symbol { He } }, Properties
+
+			Atomic Radius: '0'; Atomic Weight: '4.002602'; Boiling Point: '4.216'
+			Density: '0.147 (@ -270degC)'; Electronic Configuration: '1s²'
+			First Ionisation Energy: '2361.3'; Heat Evaporation: '0.08'; Lattice: 'HEX'
+			Lattice Constant: '3.57'; Melting Point: '0.95'; Specific Heat: '5.188'
+			Specific Volume: '31.8'; Thermal Conductivity: '0.152'
+
+		3: Nomenclature { Name { Lithium }, Symbol { Li } }, Properties
+
+			Atomic Radius: '155'; Atomic Weight: '6.941'; Boiling Point: '1118.15'
+			Covalent Radius: '163'; Density: '0.534'; Electronic Configuration: '[He]2s¹'
+			First Ionisation Energy: '519.9'; Heat Evaporation: '148'; Heat Fusion: '2.89'
+			Lattice: 'BCC'; Lattice Constant: '3.49'; Melting Point: '553.69'
+			Oxidation States: '1'; Pauling Electronegativity: '0.98'; Specific Heat: '3.489'
+			Specific Volume: '13.1'; Thermal Conductivity: '84.8'
+
+		4: Nomenclature { Name { Beryllium }, Symbol { Be } }, Properties
+
+			Atomic Radius: '112'; Atomic Weight: '9.01218'; Boiling Point: '3243'
+			Covalent Radius: '90'; Density: '1.848'; Electronic Configuration: '[He]2s²'
+			First Ionisation Energy: '898.8'; Heat Evaporation: '309'; Heat Fusion: '12.21'
+			Lattice: 'HEX'; Lattice Constant: '2.29'; Melting Point: '1551'; Oxidation States: '2'
+			Pauling Electronegativity: '1.57'; Specific Heat: '1.824'; Specific Volume: '5'
+			Thermal Conductivity: '201'
+
+		5: Nomenclature { Name { Boron }, Symbol { B } }, Properties
+
+			Atomic Radius: '98'; Atomic Weight: '10.811'; Boiling Point: '3931'
+			Covalent Radius: '82'; Density: '2.34'; Electronic Configuration: '[He]2s²2p¹'
+			First Ionisation Energy: '800.2'; Heat Evaporation: '504.5'; Heat Fusion: '23.6'
+			Lattice: 'TET'; Lattice Constant: '8.73'; Melting Point: '2573'; Oxidation States: '3'
+			Pauling Electronegativity: '2.04'; Specific Heat: '1.025'; Specific Volume: '4.6'
+			Thermal Conductivity: '27.4'
+
+		6: Nomenclature { Name { Carbon }, Symbol { C } }, Properties
+
+			Atomic Radius: '91'; Atomic Weight: '12.011'; Boiling Point: '5100'
+			Covalent Radius: '77'; Density: '2.25 (graphite)'
+			Electronic Configuration: '[He]2s²2p²'; First Ionisation Energy: '1085.7'
+			Lattice: 'DIA'; Lattice Constant: '3.57'; Melting Point: '3820'
+			Oxidation States: '4 2 -4'; Pauling Electronegativity: '2.55'; Specific Heat: '0.711'
+			Specific Volume: '5.3'; Thermal Conductivity: '1.59'
+
+		7: Nomenclature { Name { Nitrogen }, Symbol { N } }, Properties
+
+			Atomic Radius: '92'; Atomic Weight: '14.00674'; Boiling Point: '77.4'
+			Covalent Radius: '75'; Density: '0.808 (@ -195.8degC)'
+			Electronic Configuration: '[He]2s²2p³'; First Ionisation Energy: '1401.5'
+			Lattice: 'HEX'; Lattice Constant: '4.039'; Melting Point: '63.29'
+			Oxidation States: '5 4 3 2 -3'; Pauling Electronegativity: '3.04'
+			Specific Heat: '1.042 (N-N)'; Specific Volume: '17.3'; Thermal Conductivity: '0.026'
+
+		8: Nomenclature { Name { Oxygen }, Symbol { O } }, Properties
+
+			Atomic Weight: '15.9994'; Boiling Point: '90.19'; Covalent Radius: '73'
+			Density: '1.149 (@ -183degC)'; Electronic Configuration: '[He]2s²2p'
+			First Ionisation Energy: '1313.1'; Lattice: 'CUB'; Lattice Constant: '6.83'
+			Melting Point: '54.8'; Oxidation States: '-2 -1'; Pauling Electronegativity: '3.44'
+			Specific Heat: '0.916 (O-O)'; Specific Volume: '14'; Thermal Conductivity: '0.027'
+
+		9: Nomenclature { Name { Fluorine }, Symbol { F } }, Properties
+
+			Atomic Weight: '18.998403'; Boiling Point: '85.01'; Covalent Radius: '72'
+			Density: '1.108 (@ -189degC)'; Electronic Configuration: '[He]2s²2p'
+			First Ionisation Energy: '1680'; Heat Evaporation: '6.54 (F-F)'
+			Heat Fusion: '0.51 (F-F)'; Lattice: 'MCL'; Melting Point: '53.53'
+			Oxidation States: '-1'; Pauling Electronegativity: '3.98'; Specific Heat: '0.824 (F-F)'
+			Specific Volume: '17.1'; Thermal Conductivity: '0.028'
+
+		10: Nomenclature { Name { Neon }, Symbol { Ne } }, Properties
+
+			Atomic Weight: '20.1797'; Boiling Point: '27.1'; Covalent Radius: '71'
+			Density: '1.204 (@ -246degC)'; Electronic Configuration: '[He]2s²2p'
+			First Ionisation Energy: '2079.4'; Heat Evaporation: '1.74'; Lattice: 'FCC'
+			Lattice Constant: '4.43'; Melting Point: '48'; Pauling Electronegativity: '0'
+			Specific Heat: '1.029'; Specific Volume: '16.8'; Thermal Conductivity: '<0.0493>'
+
+		11: Nomenclature { Name { Sodium }, Symbol { Na } }, Properties
+
+			Atomic Radius: '190'; Atomic Weight: '22.989768'; Boiling Point: '1156.1'
+			Covalent Radius: '154'; Density: '0.971'; Electronic Configuration: '[Ne]3s¹'
+			First Ionisation Energy: '495.6'; Heat Evaporation: '97.9'; Heat Fusion: '2.64'
+			Lattice: 'BCC'; Lattice Constant: '4.23'; Melting Point: '370.96'
+			Oxidation States: '1'; Pauling Electronegativity: '0.93'; Specific Heat: '1.222'
+			Specific Volume: '23.7'; Thermal Conductivity: '142'
+
+		12: Nomenclature { Name { Magnesium }, Symbol { Mg } }, Properties
+
+			Atomic Radius: '160'; Atomic Weight: '24.305'; Boiling Point: '1363'
+			Covalent Radius: '136'; Density: '1.738'; Electronic Configuration: '[Ne]3s²'
+			First Ionisation Energy: '737.3'; Heat Evaporation: '131.8'; Heat Fusion: '9.2'
+			Lattice: 'HEX'; Lattice Constant: '3.21'; Melting Point: '922'; Oxidation States: '2'
+			Pauling Electronegativity: '1.31'; Specific Heat: '1.025'; Specific Volume: '14'
+			Thermal Conductivity: '156'
+
+		13: Nomenclature { Name { Aluminum }, Symbol { Al } }, Properties
+
+			Atomic Radius: '143'; Atomic Weight: '26.981539'; Boiling Point: '2740'
+			Covalent Radius: '118'; Density: '2.6989'; Electronic Configuration: '[Ne]3s²3p¹'
+			First Ionisation Energy: '577.2'; Heat Evaporation: '284.1'; Heat Fusion: '10.75'
+			Lattice: 'FCC'; Lattice Constant: '4.05'; Melting Point: '933.5'; Oxidation States: '3'
+			Pauling Electronegativity: '1.61'; Specific Heat: '0.9'; Specific Volume: '10'
+			Thermal Conductivity: '237'
+
+		14: Nomenclature { Name { Silicon }, Symbol { Si } }, Properties
+
+			Atomic Radius: '132'; Atomic Weight: '28.0855'; Boiling Point: '2628'
+			Covalent Radius: '111'; Density: '2.33'; Electronic Configuration: '[Ne]3s²3p²'
+			First Ionisation Energy: '786'; Heat Evaporation: '383'; Heat Fusion: '50.6'
+			Lattice: 'DIA'; Lattice Constant: '5.43'; Melting Point: '1683'
+			Oxidation States: '4 -4'; Pauling Electronegativity: '1.9'; Specific Heat: '0.703'
+			Specific Volume: '12.1'; Thermal Conductivity: '149'
+
+		15: Nomenclature { Name { Phosphorus }, Symbol { P } }, Properties
+
+			Atomic Radius: '128'; Atomic Weight: '30.973762'; Boiling Point: '553'
+			Covalent Radius: '106'; Density: '1.82 (white phosphorus)'
+			Electronic Configuration: '[Ne]3s²3p³'; First Ionisation Energy: '1011.2'
+			Heat Evaporation: '49.8'; Heat Fusion: '2.51'; Lattice: 'CUB'; Lattice Constant: '7.17'
+			Melting Point: '317.3'; Oxidation States: '5 3 -3'; Pauling Electronegativity: '2.19'
+			Specific Heat: '0.757'; Specific Volume: '17'; Thermal Conductivity: '<0.236>'
+
+		16: Nomenclature { Name { Sulfur }, Symbol { S } }, Properties
+
+			Atomic Radius: '127'; Atomic Weight: '32.066'; Boiling Point: '717.824'
+			Covalent Radius: '102'; Density: '2.07'; Electronic Configuration: '[Ne]3s²3p'
+			First Ionisation Energy: '999'; Heat Evaporation: '10.5'; Heat Fusion: '1.23'
+			Lattice: 'ORC'; Lattice Constant: '10.47'; Melting Point: '386'
+			Oxidation States: '6 4 2 -2'; Pauling Electronegativity: '2.58'; Specific Heat: '0.732'
+			Specific Volume: '15.5'; Thermal Conductivity: '0.27'
+
+		17: Nomenclature { Name { Chlorine }, Symbol { Cl } }, Properties
+
+			Atomic Weight: '35.4527'; Boiling Point: '238.6'; Covalent Radius: '99'
+			Density: '1.56 (@ -33.6degC)'; Electronic Configuration: '[Ne]3s²3p'
+			First Ionisation Energy: '1254.9'; Heat Evaporation: '20.41 (Cl-Cl)'
+			Heat Fusion: '6.41 (Cl-Cl)'; Lattice: 'ORC'; Lattice Constant: '6.24'
+			Melting Point: '172.2'; Oxidation States: '7 5 3 1 -1'
+			Pauling Electronegativity: '3.16'; Specific Heat: '0.477 (Cl-Cl)'
+			Specific Volume: '18.7'; Thermal Conductivity: '0.009'
+
+		18: Nomenclature { Name { Argon }, Symbol { Ar } }, Properties
+
+			Atomic Weight: '39.948'; Boiling Point: '87.3'; Covalent Radius: '98'
+			Density: '1.40 (@ -186degC)'; Electronic Configuration: '[Ne]3s²3p'
+			First Ionisation Energy: '1519.6'; Heat Evaporation: '6.52'; Lattice: 'FCC'
+			Lattice Constant: '5.26'; Melting Point: '83.8'; Pauling Electronegativity: '0'
+			Specific Heat: '0.138'; Specific Volume: '24.2'; Thermal Conductivity: '0.0177'
+
+		19: Nomenclature { Name { Potassium }, Symbol { K } }, Properties
+
+			Atomic Radius: '235'; Atomic Weight: '39.0983'; Boiling Point: '1047'
+			Covalent Radius: '203'; Density: '0.856'; Electronic Configuration: '[Ar]4s¹'
+			First Ionisation Energy: '418.5'; Heat Evaporation: '2.33'; Heat Fusion: '102.5'
+			Lattice: 'BCC'; Lattice Constant: '5.23'; Melting Point: '336.8'; Oxidation States: '1'
+			Pauling Electronegativity: '0.82'; Specific Heat: '0.753'; Specific Volume: '45.3'
+			Thermal Conductivity: '79'
+
+		20: Nomenclature { Name { Calcium }, Symbol { Ca } }, Properties
+
+			Atomic Radius: '197'; Atomic Weight: '40.078'; Boiling Point: '1757'
+			Covalent Radius: '174'; Density: '1.55'; Electronic Configuration: '[Ar]4s²'
+			First Ionisation Energy: '589.4'; Heat Evaporation: '153.6'; Heat Fusion: '9.2'
+			Lattice: 'FCC'; Lattice Constant: '5.58'; Melting Point: '1112'; Oxidation States: '2'
+			Pauling Electronegativity: '1'; Specific Heat: '0.653'; Specific Volume: '29.9'
+			Thermal Conductivity: '<201>'
+
+		21: Nomenclature { Name { Scandium }, Symbol { Sc } }, Properties
+
+			Atomic Radius: '162'; Atomic Weight: '44.95591'; Boiling Point: '3104'
+			Covalent Radius: '144'; Density: '2.99'; Electronic Configuration: '[Ar]3d¹4s²'
+			First Ionisation Energy: '630.8'; Heat Evaporation: '332.7'; Heat Fusion: '15.8'
+			Lattice: 'HEX'; Lattice Constant: '3.31'; Melting Point: '1814'; Oxidation States: '3'
+			Pauling Electronegativity: '1.36'; Specific Heat: '0.556'; Specific Volume: '15'
+			Thermal Conductivity: '15.8'
+
+		22: Nomenclature { Name { Titanium }, Symbol { Ti } }, Properties
+
+			Atomic Radius: '147'; Atomic Weight: '47.88'; Boiling Point: '3560'
+			Covalent Radius: '132'; Density: '4.54'; Electronic Configuration: '[Ar]3d²4s²'
+			First Ionisation Energy: '657.8'; Heat Evaporation: '422.6'; Heat Fusion: '18.8'
+			Lattice: 'HEX'; Lattice Constant: '2.95'; Melting Point: '1933'
+			Oxidation States: '4 3'; Pauling Electronegativity: '1.54'; Specific Heat: '0.523'
+			Specific Volume: '10.6'; Thermal Conductivity: '21.9'
+
+		23: Nomenclature { Name { Vanadium }, Symbol { V } }, Properties
+
+			Atomic Radius: '134'; Atomic Weight: '50.9415'; Boiling Point: '3650'
+			Covalent Radius: '122'; Density: '6.11'; Electronic Configuration: '[Ar]3d³4s²'
+			First Ionisation Energy: '650.1'; Heat Evaporation: '460'; Heat Fusion: '17.5'
+			Lattice: 'BCC'; Lattice Constant: '3.02'; Melting Point: '2160'
+			Oxidation States: '5 4 3 2 0'; Pauling Electronegativity: '1.63'
+			Specific Heat: '0.485'; Specific Volume: '8.35'; Thermal Conductivity: '30.7'
+
+		24: Nomenclature { Name { Chromium }, Symbol { Cr } }, Properties
+
+			Atomic Radius: '130'; Atomic Weight: '51.9961'; Boiling Point: '2945'
+			Covalent Radius: '118'; Density: '7.18'; Electronic Configuration: '[Ar]3d4s¹'
+			First Ionisation Energy: '652.4'; Heat Evaporation: '342'; Heat Fusion: '21'
+			Lattice: 'BCC'; Lattice Constant: '2.88'; Melting Point: '2130'
+			Oxidation States: '6 3 2 0'; Pauling Electronegativity: '1.66'; Specific Heat: '0.488'
+			Specific Volume: '7.23'; Thermal Conductivity: '93.9'
+
+		25: Nomenclature { Name { Manganese }, Symbol { Mn } }, Properties
+
+			Atomic Radius: '135'; Atomic Weight: '54.93805'; Boiling Point: '2235'
+			Covalent Radius: '117'; Density: '7.21'; Electronic Configuration: '[Ar]3d4s²'
+			First Ionisation Energy: '716.8'; Heat Evaporation: '221'; Heat Fusion: '-13.4'
+			Lattice: 'CUB'; Lattice Constant: '8.89'; Melting Point: '1517'
+			Oxidation States: '7 6 4 3 2 0 -1'; Pauling Electronegativity: '1.55'
+			Specific Heat: '0.477'; Specific Volume: '7.39'; Thermal Conductivity: '<7.8>'
+
+		26: Nomenclature { Name { Iron }, Symbol { Fe } }, Properties
+
+			Atomic Radius: '126'; Atomic Weight: '55.847'; Boiling Point: '3023'
+			Covalent Radius: '117'; Density: '7.874'; Electronic Configuration: '[Ar]3d4s²'
+			First Ionisation Energy: '759.1'; Heat Evaporation: '~340'; Heat Fusion: '13.8'
+			Lattice: 'BCC'; Lattice Constant: '2.87'; Melting Point: '1808'
+			Oxidation States: '6 3 2 0 -2'; Pauling Electronegativity: '1.83'
+			Specific Heat: '0.443'; Specific Volume: '7.1'; Thermal Conductivity: '80.4'
+
+		27: Nomenclature { Name { Cobalt }, Symbol { Co } }, Properties
+
+			Atomic Radius: '125'; Atomic Weight: '58.9332'; Boiling Point: '3143'
+			Covalent Radius: '116'; Density: '8.9'; Electronic Configuration: '[Ar]3d4s²'
+			First Ionisation Energy: '758.1'; Heat Evaporation: '389.1'; Heat Fusion: '15.48'
+			Lattice: 'HEX'; Lattice Constant: '2.51'; Melting Point: '1768'
+			Oxidation States: '3 2 0 -1'; Pauling Electronegativity: '1.88'; Specific Heat: '0.456'
+			Specific Volume: '6.7'; Thermal Conductivity: '100'
+
+		28: Nomenclature { Name { Nickel }, Symbol { Ni } }, Properties
+
+			Atomic Radius: '124'; Atomic Weight: '58.6934'; Boiling Point: '3005'
+			Covalent Radius: '115'; Density: '8.902'; Electronic Configuration: '[Ar]3d4s²'
+			First Ionisation Energy: '736.2'; Heat Evaporation: '378.6'; Heat Fusion: '17.61'
+			Lattice: 'FCC'; Lattice Constant: '3.52'; Melting Point: '1726'
+			Oxidation States: '3 2 0'; Pauling Electronegativity: '1.91'; Specific Heat: '0.443'
+			Specific Volume: '6.6'; Thermal Conductivity: '90.9'
+
+		29: Nomenclature { Name { Copper }, Symbol { Cu } }, Properties
+
+			Atomic Radius: '128'; Atomic Weight: '63.546'; Boiling Point: '2840'
+			Covalent Radius: '117'; Density: '8.96'; Electronic Configuration: '[Ar]3d¹4s¹'
+			First Ionisation Energy: '745'; Heat Evaporation: '304.6'; Heat Fusion: '13.01'
+			Lattice: 'FCC'; Lattice Constant: '3.61'; Melting Point: '1356.6'
+			Oxidation States: '2 1'; Pauling Electronegativity: '1.9'; Specific Heat: '0.385'
+			Specific Volume: '7.1'; Thermal Conductivity: '401'
+
+		30: Nomenclature { Name { Zinc }, Symbol { Zn } }, Properties
+
+			Atomic Radius: '138'; Atomic Weight: '65.39'; Boiling Point: '1180'
+			Covalent Radius: '125'; Density: '7.133'; Electronic Configuration: '[Ar]3d¹4s²'
+			First Ionisation Energy: '905.8'; Heat Evaporation: '114.8'; Heat Fusion: '7.28'
+			Lattice: 'HEX'; Lattice Constant: '2.66'; Melting Point: '692.73'
+			Oxidation States: '2'; Pauling Electronegativity: '1.65'; Specific Heat: '0.388'
+			Specific Volume: '9.2'; Thermal Conductivity: '116'
+
+		31: Nomenclature { Name { Gallium }, Symbol { Ga } }, Properties
+
+			Atomic Radius: '141'; Atomic Weight: '69.723'; Boiling Point: '2676'
+			Covalent Radius: '126'; Density: '5.91'; Electronic Configuration: '[Ar]3d¹4s²4p¹'
+			First Ionisation Energy: '578.7'; Heat Evaporation: '270.3'; Heat Fusion: '5.59'
+			Lattice: 'ORC'; Lattice Constant: '4.51'; Melting Point: '302.93'
+			Oxidation States: '3'; Pauling Electronegativity: '1.81'; Specific Heat: '0.372'
+			Specific Volume: '11.8'; Thermal Conductivity: '28.1'
+
+		32: Nomenclature { Name { Germanium }, Symbol { Ge } }, Properties
+
+			Atomic Radius: '137'; Atomic Weight: '72.61'; Boiling Point: '3103'
+			Covalent Radius: '122'; Density: '5.323'; Electronic Configuration: '[Ar]3d¹4s²4p²'
+			First Ionisation Energy: '760'; Heat Evaporation: '328'; Heat Fusion: '36.8'
+			Lattice: 'DIA'; Lattice Constant: '5.66'; Melting Point: '1210.6'
+			Oxidation States: '4'; Pauling Electronegativity: '2.01'; Specific Heat: '0.322'
+			Specific Volume: '13.6'; Thermal Conductivity: '60.2'
+
+		33: Nomenclature { Name { Arsenic }, Symbol { As } }, Properties
+
+			Atomic Radius: '139'; Atomic Weight: '74.92159'; Boiling Point: '876'
+			Covalent Radius: '120'; Density: '5.73 (grey arsenic)'
+			Electronic Configuration: '[Ar]3d¹4s²4p³'; First Ionisation Energy: '946.2'
+			Heat Evaporation: '32.4'; Lattice: 'RHL'; Lattice Constant: '4.13'
+			Melting Point: '1090'; Oxidation States: '5 3 -2'; Pauling Electronegativity: '2.18'
+			Specific Heat: '0.328'; Specific Volume: '13.1'; Thermal Conductivity: '<50.2>'
+
+		34: Nomenclature { Name { Selenium }, Symbol { Se } }, Properties
+
+			Atomic Radius: '140'; Atomic Weight: '78.96'; Boiling Point: '958.1'
+			Covalent Radius: '116'; Density: '4.79'; Electronic Configuration: '[Ar]3d¹4s²4p'
+			First Ionisation Energy: '940.4'; Heat Evaporation: '59.7'; Heat Fusion: '5.23'
+			Lattice: 'HEX'; Lattice Constant: '4.36'; Melting Point: '490'
+			Oxidation States: '6 4 -2'; Pauling Electronegativity: '2.55'
+			Specific Heat: '0.321 (Se-Se)'; Specific Volume: '16.5'; Thermal Conductivity: '0.52'
+
+		35: Nomenclature { Name { Bromine }, Symbol { Br } }, Properties
+
+			Atomic Weight: '79.904'; Boiling Point: '331.9'; Covalent Radius: '114'
+			Density: '3.12'; Electronic Configuration: '[Ar]3d¹4s²4p'
+			First Ionisation Energy: '1142'; Heat Evaporation: '29.56 (Br-Br)'
+			Heat Fusion: '10.57 (Br-Br)'; Lattice: 'ORC'; Lattice Constant: '6.67'
+			Melting Point: '265.9'; Oxidation States: '7 5 3 1 -1'
+			Pauling Electronegativity: '2.96'; Specific Heat: '0.473 (Br-Br)'
+			Specific Volume: '23.5'; Thermal Conductivity: '0.005'
+
+		36: Nomenclature { Name { Krypton }, Symbol { Kr } }, Properties
+
+			Atomic Weight: '83.8'; Boiling Point: '120.85'; Covalent Radius: '112'
+			Density: '2.155 (@ -153degC)'; Electronic Configuration: '[Ar]3d¹4s²4p'
+			First Ionisation Energy: '1350'; Heat Evaporation: '9.05'; Lattice: 'FCC'
+			Lattice Constant: '5.72'; Melting Point: '116.6'; Oxidation States: '2'
+			Pauling Electronegativity: '0'; Specific Heat: '0.247'; Specific Volume: '32.2'
+			Thermal Conductivity: '0.0095'
+
+		37: Nomenclature { Name { Rubidium }, Symbol { Rb } }, Properties
+
+			Atomic Radius: '248'; Atomic Weight: '85.4678'; Boiling Point: '961'
+			Covalent Radius: '216'; Density: '1.532'; Electronic Configuration: '[Kr]5s¹'
+			First Ionisation Energy: '402.8'; Heat Evaporation: '75.8'; Heat Fusion: '2.2'
+			Lattice: 'BCC'; Lattice Constant: '5.59'; Melting Point: '312.2'; Oxidation States: '1'
+			Pauling Electronegativity: '0.82'; Specific Heat: '0.36'; Specific Volume: '55.9'
+			Thermal Conductivity: '58.2'
+
+		38: Nomenclature { Name { Strontium }, Symbol { Sr } }, Properties
+
+			Atomic Radius: '215'; Atomic Weight: '87.62'; Boiling Point: '1657'
+			Covalent Radius: '191'; Density: '2.54'; Electronic Configuration: '[Kr]5s²'
+			First Ionisation Energy: '549'; Heat Evaporation: '144'; Heat Fusion: '9.2'
+			Lattice: 'FCC'; Lattice Constant: '6.08'; Melting Point: '1042'; Oxidation States: '2'
+			Pauling Electronegativity: '0.95'; Specific Heat: '0.301'; Specific Volume: '33.7'
+			Thermal Conductivity: '<35.4>'
+
+		39: Nomenclature { Name { Yttrium }, Symbol { Y } }, Properties
+
+			Atomic Radius: '178'; Atomic Weight: '88.90585'; Boiling Point: '3611'
+			Covalent Radius: '162'; Density: '4.47'; Electronic Configuration: '[Kr]4d¹5s²'
+			First Ionisation Energy: '615.4'; Heat Evaporation: '367'; Heat Fusion: '11.5'
+			Lattice: 'HEX'; Lattice Constant: '3.65'; Melting Point: '1795'; Oxidation States: '3'
+			Pauling Electronegativity: '1.22'; Specific Heat: '0.284'; Specific Volume: '19.8'
+			Thermal Conductivity: '<17.2>'
+
+		40: Nomenclature { Name { Zirconium }, Symbol { Zr } }, Properties
+
+			Atomic Radius: '160'; Atomic Weight: '91.224'; Boiling Point: '4650'
+			Covalent Radius: '145'; Density: '6.506'; Electronic Configuration: '[Kr]4d²5s²'
+			First Ionisation Energy: '659.7'; Heat Evaporation: '567'; Heat Fusion: '19.2'
+			Lattice: 'HEX'; Lattice Constant: '3.23'; Melting Point: '2125'; Oxidation States: '4'
+			Pauling Electronegativity: '1.33'; Specific Heat: '0.281'; Specific Volume: '14.1'
+			Thermal Conductivity: '22.7'
+
+		41: Nomenclature { Name { Niobium }, Symbol { Nb } }, Properties
+
+			Atomic Radius: '146'; Atomic Weight: '92.90638'; Boiling Point: '5015'
+			Covalent Radius: '134'; Density: '8.57'; Electronic Configuration: '[Kr]4d5s¹'
+			First Ionisation Energy: '663.6'; Heat Evaporation: '680'; Heat Fusion: '26.8'
+			Lattice: 'BCC'; Lattice Constant: '3.3'; Melting Point: '2741'; Oxidation States: '5 3'
+			Pauling Electronegativity: '1.6'; Specific Heat: '0.268'; Specific Volume: '10.8'
+			Thermal Conductivity: '53.7'
+
+		42: Nomenclature { Name { Molybdenum }, Symbol { Mo } }, Properties
+
+			Atomic Radius: '139'; Atomic Weight: '95.94'; Boiling Point: '4885'
+			Covalent Radius: '130'; Density: '10.22'; Electronic Configuration: '[Kr]4d5s¹'
+			First Ionisation Energy: '684.8'; Heat Evaporation: '~590'; Heat Fusion: '28'
+			Lattice: 'BCC'; Lattice Constant: '3.15'; Melting Point: '2890'
+			Oxidation States: '6 5 4 3 2 0'; Pauling Electronegativity: '2.16'
+			Specific Heat: '0.251'; Specific Volume: '9.4'; Thermal Conductivity: '<138>'
+
+		43: Nomenclature { Name { Technetium }, Symbol { Tc } }, Properties
+
+			Atomic Radius: '136'; Atomic Weight: '97.9072'; Boiling Point: '5150'
+			Covalent Radius: '127'; Density: '11.5'; Electronic Configuration: '[Kr]4d5s¹'
+			First Ionisation Energy: '702.2'; Heat Evaporation: '585'; Heat Fusion: '23.8'
+			Lattice: 'HEX'; Lattice Constant: '2.74'; Melting Point: '2445'; Oxidation States: '7'
+			Pauling Electronegativity: '1.9'; Specific Heat: '0.243'; Specific Volume: '8.5'
+			Thermal Conductivity: '50.6'
+
+		44: Nomenclature { Name { Ruthenium }, Symbol { Ru } }, Properties
+
+			Atomic Radius: '134'; Atomic Weight: '101.07'; Boiling Point: '4173'
+			Covalent Radius: '125'; Density: '12.41'; Electronic Configuration: '[Kr]4d5s¹'
+			First Ionisation Energy: '710.3'; Heat Fusion: '<25.5>'; Lattice: 'HEX'
+			Lattice Constant: '2.7'; Melting Point: '2583'; Oxidation States: '8 6 4 3 2 0 -2'
+			Pauling Electronegativity: '2.2'; Specific Heat: '0.238'; Specific Volume: '8.3'
+			Thermal Conductivity: '117'
+
+		45: Nomenclature { Name { Rhodium }, Symbol { Rh } }, Properties
+
+			Atomic Radius: '134'; Atomic Weight: '102.9055'; Boiling Point: '4000'
+			Covalent Radius: '125'; Density: '12.41'; Electronic Configuration: '[Kr]4d5s¹'
+			First Ionisation Energy: '719.5'; Heat Evaporation: '494'; Heat Fusion: '21.8'
+			Lattice: 'FCC'; Lattice Constant: '3.8'; Melting Point: '2239'
+			Oxidation States: '5 4 3 2 1 0'; Pauling Electronegativity: '2.28'
+			Specific Heat: '0.244'; Specific Volume: '8.3'; Thermal Conductivity: '150'
+
+		46: Nomenclature { Name { Palladium }, Symbol { Pd } }, Properties
+
+			Atomic Radius: '137'; Atomic Weight: '106.42'; Boiling Point: '3413'
+			Covalent Radius: '128'; Density: '12.02'; Electronic Configuration: '[Kr]4d5s'
+			First Ionisation Energy: '803.5'; Heat Evaporation: '372.4'; Heat Fusion: '17.24'
+			Lattice: 'FCC'; Lattice Constant: '3.89'; Melting Point: '1825'
+			Oxidation States: '4 2 0'; Pauling Electronegativity: '2.2'; Specific Heat: '0.244'
+			Specific Volume: '8.9'; Thermal Conductivity: '71.8'
+
+		47: Nomenclature { Name { Silver }, Symbol { Ag } }, Properties
+
+			Atomic Radius: '144'; Atomic Weight: '107.8682'; Boiling Point: '2485'
+			Covalent Radius: '134'; Density: '10.5'; Electronic Configuration: '[Kr]4d5s¹'
+			First Ionisation Energy: '730.5'; Heat Evaporation: '254.1'; Heat Fusion: '11.95'
+			Lattice: 'FCC'; Lattice Constant: '4.09'; Melting Point: '1235.1'
+			Oxidation States: '2 1'; Pauling Electronegativity: '1.93'; Specific Heat: '0.237'
+			Specific Volume: '10.3'; Thermal Conductivity: '429'
+
+		48: Nomenclature { Name { Cadmium }, Symbol { Cd } }, Properties
+
+			Atomic Radius: '154'; Atomic Weight: '112.411'; Boiling Point: '1038'
+			Covalent Radius: '148'; Density: '8.65'; Electronic Configuration: '[Kr]4d5s²'
+			First Ionisation Energy: '867.2'; Heat Evaporation: '59.1'; Heat Fusion: '6.11'
+			Lattice: 'HEX'; Lattice Constant: '2.98'; Melting Point: '594.1'; Oxidation States: '2'
+			Pauling Electronegativity: '1.69'; Specific Heat: '0.232'; Specific Volume: '13.1'
+			Thermal Conductivity: '96.9'
+
+		49: Nomenclature { Name { Indium }, Symbol { In } }, Properties
+
+			Atomic Radius: '166'; Atomic Weight: '114.818'; Boiling Point: '2353'
+			Covalent Radius: '144'; Density: '7.31'; Electronic Configuration: '[Kr]4d5s²5p¹'
+			First Ionisation Energy: '558'; Heat Evaporation: '225.1'; Heat Fusion: '3.24'
+			Lattice: 'TET'; Lattice Constant: '4.59'; Melting Point: '429.32'
+			Oxidation States: '3'; Pauling Electronegativity: '1.78'; Specific Heat: '0.234'
+			Specific Volume: '15.7'; Thermal Conductivity: '81.8'
+
+		50: Nomenclature { Name { Tin }, Symbol { Sn } }, Properties
+
+			Atomic Radius: '162'; Atomic Weight: '118.71'; Boiling Point: '2543'
+			Covalent Radius: '141'; Density: '7.31'; Electronic Configuration: '[Kr]4d5s²5p²'
+			First Ionisation Energy: '708.2'; Heat Evaporation: '296'; Heat Fusion: '7.07'
+			Lattice: 'TET'; Lattice Constant: '5.82'; Melting Point: '505.1'
+			Oxidation States: '4 2'; Pauling Electronegativity: '1.96'; Specific Heat: '0.222'
+			Specific Volume: '16.3'; Thermal Conductivity: '66.8'
+
+		51: Nomenclature { Name { Antimony }, Symbol { Sb } }, Properties
+
+			Atomic Radius: '159'; Atomic Weight: '121.76'; Boiling Point: '1908'
+			Covalent Radius: '140'; Density: '6.691'; Electronic Configuration: '[Kr]4d5s²5p³'
+			First Ionisation Energy: '833.3'; Heat Evaporation: '195.2'; Heat Fusion: '20.08'
+			Lattice: 'RHL'; Lattice Constant: '4.51'; Melting Point: '903.9'
+			Oxidation States: '5 3 -2'; Pauling Electronegativity: '2.05'; Specific Heat: '0.205'
+			Specific Volume: '18.4'; Thermal Conductivity: '24.43'
+
+		52: Nomenclature { Name { Tellurium }, Symbol { Te } }, Properties
+
+			Atomic Radius: '160'; Atomic Weight: '127.6'; Boiling Point: '1263'
+			Covalent Radius: '136'; Density: '6.24'; Electronic Configuration: '[Kr]4d5s²5p'
+			First Ionisation Energy: '869'; Heat Evaporation: '49.8'; Heat Fusion: '17.91'
+			Lattice: 'HEX'; Lattice Constant: '4.45'; Melting Point: '722.7'
+			Oxidation States: '6 4 2'; Pauling Electronegativity: '2.1'; Specific Heat: '0.201'
+			Specific Volume: '20.5'; Thermal Conductivity: '14.3'
+
+		53: Nomenclature { Name { Iodine }, Symbol { I } }, Properties
+
+			Atomic Weight: '126.90447'; Boiling Point: '457.5'; Covalent Radius: '133'
+			Density: '4.93'; Electronic Configuration: '[Kr]4d5s²5p'
+			First Ionisation Energy: '1008.3'; Heat Evaporation: '41.95 (I-I)'
+			Heat Fusion: '15.52 (I-I)'; Lattice: 'ORC'; Lattice Constant: '7.72'
+			Melting Point: '386.7'; Oxidation States: '7 5 1 -1'; Pauling Electronegativity: '2.66'
+			Specific Heat: '0.427 (I-I)'; Specific Volume: '25.7'; Thermal Conductivity: '<0.45>'
+
+		54: Nomenclature { Name { Xenon }, Symbol { Xe } }, Properties
+
+			Atomic Weight: '131.29'; Boiling Point: '166.1'; Covalent Radius: '131'
+			Density: '3.52 (@ -109degC)'; Electronic Configuration: '[Kr]4d5s²5p'
+			First Ionisation Energy: '1170'; Heat Evaporation: '12.65'; Lattice: 'FCC'
+			Lattice Constant: '6.2'; Melting Point: '161.3'; Oxidation States: '7'
+			Pauling Electronegativity: '0'; Specific Heat: '0.158'; Specific Volume: '42.9'
+			Thermal Conductivity: '0.0057'
+
+		55: Nomenclature { Name { Cesium }, Symbol { Cs } }, Properties
+
+			Atomic Radius: '267'; Atomic Weight: '132.90543'; Boiling Point: '951.6'
+			Covalent Radius: '235'; Density: '1.873'; Electronic Configuration: '[Xe]6s¹'
+			First Ionisation Energy: '375.5'; Heat Evaporation: '68.3'; Heat Fusion: '2.09'
+			Lattice: 'BCC'; Lattice Constant: '6.05'; Melting Point: '301.6'; Oxidation States: '1'
+			Pauling Electronegativity: '0.79'; Specific Heat: '0.241'; Specific Volume: '70'
+			Thermal Conductivity: '35.9'
+
+		56: Nomenclature { Name { Barium }, Symbol { Ba } }, Properties
+
+			Atomic Radius: '222'; Atomic Weight: '137.327'; Boiling Point: '1910'
+			Covalent Radius: '198'; Density: '3.5'; Electronic Configuration: '[Xe]6s²'
+			First Ionisation Energy: '502.5'; Heat Evaporation: '142'; Heat Fusion: '7.66'
+			Lattice: 'BCC'; Lattice Constant: '5.02'; Melting Point: '1002'; Oxidation States: '2'
+			Pauling Electronegativity: '0.89'; Specific Heat: '0.192'; Specific Volume: '39'
+			Thermal Conductivity: '<18.4>'
+
+		57: Nomenclature { Name { Lanthanum }, Symbol { La } }, Properties
+
+			Atomic Radius: '187'; Atomic Weight: '138.9055'; Boiling Point: '3730'
+			Covalent Radius: '169'; Density: '6.15'; Electronic Configuration: '[Xe]6d¹6s²'
+			First Ionisation Energy: '541.1'; Heat Evaporation: '402'; Heat Fusion: '8.5'
+			Lattice: 'HEX'; Lattice Constant: '3.75'; Melting Point: '1194'; Oxidation States: '3'
+			Pauling Electronegativity: '1.1'; Specific Heat: '0.197'; Specific Volume: '22.5'
+			Thermal Conductivity: '13.4'
+
+		58: Nomenclature { Name { Cerium }, Symbol { Ce } }, Properties
+
+			Atomic Radius: '181'; Atomic Weight: '140.115'; Boiling Point: '3699'
+			Covalent Radius: '165'; Density: '6.757'; Electronic Configuration: '[Xe]4f¹5d¹6s²'
+			First Ionisation Energy: '540.1'; Heat Evaporation: '398'; Heat Fusion: '5.2'
+			Lattice: 'FCC'; Lattice Constant: '5.16'; Melting Point: '1072'
+			Oxidation States: '4 3'; Pauling Electronegativity: '1.12'; Specific Heat: '0.205'
+			Specific Volume: '21'; Thermal Conductivity: '11.3'
+
+		59: Nomenclature { Name { Praseodymium }, Symbol { Pr } }, Properties
+
+			Atomic Radius: '182'; Atomic Weight: '140.90765'; Boiling Point: '3785'
+			Covalent Radius: '165'; Density: '6.773'; Electronic Configuration: '[Xe]4f³5d6s²'
+			First Ionisation Energy: '526.6'; Heat Evaporation: '331'; Heat Fusion: '11.3'
+			Lattice: 'HEX'; Lattice Constant: '3.67'; Melting Point: '1204'
+			Oxidation States: '4 3'; Pauling Electronegativity: '1.13'; Specific Heat: '0.192'
+			Specific Volume: '20.8'; Thermal Conductivity: '12.5'
+
+		60: Nomenclature { Name { Neodymium }, Symbol { Nd } }, Properties
+
+			Atomic Radius: '182'; Atomic Weight: '144.24'; Boiling Point: '3341'
+			Covalent Radius: '184'; Density: '7.007'; Electronic Configuration: '[Xe]4f5d6s²'
+			First Ionisation Energy: '531.5'; Heat Evaporation: '289'; Heat Fusion: '7.1'
+			Lattice: 'HEX'; Lattice Constant: '3.66'; Melting Point: '1294'; Oxidation States: '3'
+			Pauling Electronegativity: '1.14'; Specific Heat: '0.205'; Specific Volume: '20.6'
+			Thermal Conductivity: '<16.5>'
+
+		61: Nomenclature { Name { Promethium }, Symbol { Pm } }, Properties
+
+			Atomic Weight: '144.9127'; Boiling Point: '3000'; Covalent Radius: '163'
+			Density: '7.2'; Electronic Configuration: '[Xe]4f5d6s²'; First Ionisation Energy: '536'
+			Melting Point: '1441'; Oxidation States: '3'; Pauling Electronegativity: '0'
+			Specific Heat: '0.185'; Thermal Conductivity: '17.9'
+
+		62: Nomenclature { Name { Samarium }, Symbol { Sm } }, Properties
+
+			Atomic Radius: '181'; Atomic Weight: '150.36'; Boiling Point: '2064'
+			Covalent Radius: '162'; Density: '7.52'; Electronic Configuration: '[Xe]4f5d6s²'
+			First Ionisation Energy: '540.1'; Heat Evaporation: '165'; Heat Fusion: '8.9'
+			Lattice: 'RHL'; Lattice Constant: '9'; Melting Point: '1350'; Oxidation States: '3 2'
+			Pauling Electronegativity: '1.17'; Specific Heat: '0.18'; Specific Volume: '19.9'
+			Thermal Conductivity: '<13.3>'
+
+		63: Nomenclature { Name { Europium }, Symbol { Eu } }, Properties
+
+			Atomic Radius: '199'; Atomic Weight: '151.965'; Boiling Point: '1870'
+			Covalent Radius: '185'; Density: '5.243'; Electronic Configuration: '[Xe]4f5d6s²'
+			First Ionisation Energy: '546.9'; Heat Evaporation: '176'; Lattice: 'BCC'
+			Lattice Constant: '4.61'; Melting Point: '1095'; Oxidation States: '3 2'
+			Pauling Electronegativity: '0'; Specific Heat: '0.176'; Specific Volume: '28.9'
+			Thermal Conductivity: '13.9'
+
+		64: Nomenclature { Name { Gadolinium }, Symbol { Gd } }, Properties
+
+			Atomic Radius: '179'; Atomic Weight: '157.25'; Boiling Point: '3539'
+			Covalent Radius: '161'; Density: '7.9'; Electronic Configuration: '[Xe]4f5d¹6s²'
+			First Ionisation Energy: '594.2'; Heat Evaporation: '398'; Lattice: 'HEX'
+			Lattice Constant: '3.64'; Melting Point: '1586'; Oxidation States: '3'
+			Pauling Electronegativity: '1.2'; Specific Heat: '0.23'; Specific Volume: '19.9'
+			Thermal Conductivity: '<10.5>'
+
+		65: Nomenclature { Name { Terbium }, Symbol { Tb } }, Properties
+
+			Atomic Radius: '180'; Atomic Weight: '158.92534'; Boiling Point: '3296'
+			Covalent Radius: '159'; Density: '8.229'; Electronic Configuration: '[Xe]4f5d6s²'
+			First Ionisation Energy: '569'; Heat Evaporation: '389'; Lattice: 'HEX'
+			Lattice Constant: '3.6'; Melting Point: '1629'; Oxidation States: '4 3'
+			Pauling Electronegativity: '1.2'; Specific Heat: '0.183'; Specific Volume: '19.2'
+			Thermal Conductivity: '11.1'
+
+		66: Nomenclature { Name { Dysprosium }, Symbol { Dy } }, Properties
+
+			Atomic Radius: '180'; Atomic Weight: '162.5'; Boiling Point: '2835'
+			Covalent Radius: '159'; Density: '8.55'; Electronic Configuration: '[Xe]4f5d6s²'
+			First Ionisation Energy: '567'; Heat Evaporation: '291'; Lattice: 'HEX'
+			Lattice Constant: '3.59'; Melting Point: '1685'; Oxidation States: '3'
+			Specific Heat: '0.173'; Specific Volume: '19'; Thermal Conductivity: '10.7'
+
+		67: Nomenclature { Name { Holmium }, Symbol { Ho } }, Properties
+
+			Atomic Radius: '179'; Atomic Weight: '164.93032'; Boiling Point: '2968'
+			Covalent Radius: '158'; Density: '8.795'; Electronic Configuration: '[Xe]4f¹¹5d6s²'
+			First Ionisation Energy: '574'; Heat Evaporation: '301'; Lattice: 'HEX'
+			Lattice Constant: '3.58'; Melting Point: '1747'; Oxidation States: '3'
+			Pauling Electronegativity: '1.23'; Specific Heat: '0.164'; Specific Volume: '18.7'
+			Thermal Conductivity: '<16.2>'
+
+		68: Nomenclature { Name { Erbium }, Symbol { Er } }, Properties
+
+			Atomic Radius: '178'; Atomic Weight: '167.26'; Boiling Point: '3136'
+			Covalent Radius: '157'; Density: '9.06'; Electronic Configuration: '[Xe]4f¹²5d6s²'
+			First Ionisation Energy: '581'; Heat Evaporation: '317'; Lattice: 'HEX'
+			Lattice Constant: '3.56'; Melting Point: '1802'; Oxidation States: '3'
+			Pauling Electronegativity: '1.24'; Specific Heat: '0.168'; Specific Volume: '18.4'
+			Thermal Conductivity: '<14.5>'
+
+		69: Nomenclature { Name { Thulium }, Symbol { Tm } }, Properties
+
+			Atomic Radius: '177'; Atomic Weight: '168.93421'; Boiling Point: '2220'
+			Covalent Radius: '156'; Density: '9.321'; Electronic Configuration: '[Xe]4f¹³5d6s²'
+			First Ionisation Energy: '589'; Heat Evaporation: '232'; Lattice: 'HEX'
+			Lattice Constant: '3.54'; Melting Point: '1818'; Oxidation States: '3 2'
+			Pauling Electronegativity: '1.25'; Specific Heat: '0.16'; Specific Volume: '18.1'
+			Thermal Conductivity: '<16.9>'
+
+		70: Nomenclature { Name { Ytterbium }, Symbol { Yb } }, Properties
+
+			Atomic Radius: '194'; Atomic Weight: '173.04'; Boiling Point: '1466'; Density: '6.9654'
+			Electronic Configuration: '[Xe]4f¹5d¹6s²'; First Ionisation Energy: '603'
+			Heat Evaporation: '159'; Heat Fusion: '3.35'; Lattice: 'FCC'; Lattice Constant: '5.49'
+			Melting Point: '1097'; Oxidation States: '3 2'; Pauling Electronegativity: '1.1'
+			Specific Heat: '0.145'; Specific Volume: '24.8'; Thermal Conductivity: '<34.9>'
+
+		71: Nomenclature { Name { Lutetium }, Symbol { Lu } }, Properties
+
+			Atomic Radius: '175'; Atomic Weight: '174.967'; Boiling Point: '3668'
+			Covalent Radius: '156'; Density: '9.8404'; Electronic Configuration: '[Xe]4f¹5d¹6s²'
+			First Ionisation Energy: '513'; Heat Evaporation: '414'; Lattice: 'HEX'
+			Lattice Constant: '3.51'; Melting Point: '1936'; Oxidation States: '3'
+			Pauling Electronegativity: '1.27'; Specific Heat: '0.155'; Specific Volume: '17.8'
+			Thermal Conductivity: '<16.4>'
+
+		72: Nomenclature { Name { Hafnium }, Symbol { Hf } }, Properties
+
+			Atomic Radius: '167'; Atomic Weight: '178.49'; Boiling Point: '5470'
+			Covalent Radius: '144'; Density: '13.31'; Electronic Configuration: '[Xe]4f¹5d²6s²'
+			First Ionisation Energy: '575.2'; Heat Evaporation: '575'; Heat Fusion: '-25.1'
+			Lattice: 'HEX'; Lattice Constant: '3.2'; Melting Point: '2503'; Oxidation States: '4'
+			Pauling Electronegativity: '1.3'; Specific Heat: '0.146'; Specific Volume: '13.6'
+			Thermal Conductivity: '23'
+
+		73: Nomenclature { Name { Tantalum }, Symbol { Ta } }, Properties
+
+			Atomic Radius: '149'; Atomic Weight: '180.9479'; Boiling Point: '5698'
+			Covalent Radius: '134'; Density: '16.654'; Electronic Configuration: '[Xe]4f¹5d³6s²'
+			First Ionisation Energy: '760.1'; Heat Evaporation: '758'; Heat Fusion: '24.7'
+			Lattice: 'BCC'; Lattice Constant: '3.31'; Melting Point: '3269'; Oxidation States: '5'
+			Pauling Electronegativity: '1.5'; Specific Heat: '0.14'; Specific Volume: '10.9'
+			Thermal Conductivity: '57.5'
+
+		74: Nomenclature { Name { Tungsten }, Symbol { W } }, Properties
+
+			Atomic Radius: '141'; Atomic Weight: '183.84'; Boiling Point: '5930'
+			Covalent Radius: '130'; Density: '19.3'; Electronic Configuration: '[Xe]4f¹5d6s²'
+			First Ionisation Energy: '769.7'; Heat Evaporation: '824'; Heat Fusion: '-35'
+			Lattice: 'BCC'; Lattice Constant: '3.16'; Melting Point: '3680'
+			Oxidation States: '6 5 4 3 2 0'; Pauling Electronegativity: '1.7'
+			Specific Heat: '0.133'; Specific Volume: '9.53'; Thermal Conductivity: '173'
+
+		75: Nomenclature { Name { Rhenium }, Symbol { Re } }, Properties
+
+			Atomic Radius: '137'; Atomic Weight: '186.207'; Boiling Point: '5900'
+			Covalent Radius: '128'; Density: '21.02'; Electronic Configuration: '[Xe]4f¹5d6s²'
+			First Ionisation Energy: '759.1'; Heat Evaporation: '704'; Heat Fusion: '34'
+			Lattice: 'HEX'; Lattice Constant: '2.76'; Melting Point: '3453'
+			Oxidation States: '5 4 3 2 -1'; Pauling Electronegativity: '1.9'
+			Specific Heat: '0.138'; Specific Volume: '8.85'; Thermal Conductivity: '48'
+
+		76: Nomenclature { Name { Osmium }, Symbol { Os } }, Properties
+
+			Atomic Radius: '135'; Atomic Weight: '190.23'; Boiling Point: '5300'
+			Covalent Radius: '126'; Density: '22.57'; Electronic Configuration: '[Xe]4f¹5d6s²'
+			First Ionisation Energy: '819.8'; Heat Evaporation: '738'; Heat Fusion: '31.7'
+			Lattice: 'HEX'; Lattice Constant: '2.74'; Melting Point: '3327'
+			Oxidation States: '8 6 4 3 2 0 -2'; Pauling Electronegativity: '2.2'
+			Specific Heat: '0.131'; Specific Volume: '8.43'; Thermal Conductivity: '<87.6>'
+
+		77: Nomenclature { Name { Iridium }, Symbol { Ir } }, Properties
+
+			Atomic Radius: '136'; Atomic Weight: '192.22'; Boiling Point: '4403'
+			Covalent Radius: '127'; Density: '22.42'; Electronic Configuration: '[Xe]4f¹5d6s²'
+			First Ionisation Energy: '868.1'; Heat Evaporation: '604'; Heat Fusion: '27.61'
+			Lattice: 'FCC'; Lattice Constant: '3.84'; Melting Point: '2683'
+			Oxidation States: '6 4 3 2 1 0 -1'; Pauling Electronegativity: '2.2'
+			Specific Heat: '0.133'; Specific Volume: '8.54'; Thermal Conductivity: '147'
+
+		78: Nomenclature { Name { Platinum }, Symbol { Pt } }, Properties
+
+			Atomic Radius: '139'; Atomic Weight: '195.08'; Boiling Point: '4100'
+			Covalent Radius: '130'; Density: '21.45'; Electronic Configuration: '[Xe]4f¹5d6s²'
+			First Ionisation Energy: '868.1'; Heat Evaporation: '~470'; Heat Fusion: '21.76'
+			Lattice: 'FCC'; Lattice Constant: '3.92'; Melting Point: '2045'
+			Oxidation States: '4 2 0'; Pauling Electronegativity: '2.28'; Specific Heat: '0.133'
+			Specific Volume: '9.1'; Thermal Conductivity: '71.6'
+
+		79: Nomenclature { Name { Gold }, Symbol { Au } }, Properties
+
+			Atomic Radius: '146'; Atomic Weight: '196.96654'; Boiling Point: '3080'
+			Covalent Radius: '134'; Density: '19.3'; Electronic Configuration: '[Xe]4f¹5d¹6s²'
+			First Ionisation Energy: '889.3'; Heat Evaporation: '~340'; Heat Fusion: '12.68'
+			Lattice: 'FCC'; Lattice Constant: '4.08'; Melting Point: '1337.58'
+			Oxidation States: '3 1'; Pauling Electronegativity: '2.54'; Specific Heat: '0.129'
+			Specific Volume: '10.2'; Thermal Conductivity: '318'
+
+		80: Nomenclature { Name { Mercury }, Symbol { Hg } }, Properties
+
+			Atomic Radius: '157'; Atomic Weight: '200.59'; Boiling Point: '629.73'
+			Covalent Radius: '149'; Density: '13.546 (@ +20degC)'
+			Electronic Configuration: '[Xe]4f¹5d¹6s²'; First Ionisation Energy: '1006'
+			Heat Evaporation: '58.5'; Heat Fusion: '2.295'; Lattice: 'RHL'
+			Lattice Constant: '2.99'; Melting Point: '234.28'; Oxidation States: '2 1'
+			Pauling Electronegativity: '2'; Specific Heat: '0.138'; Specific Volume: '14.8'
+			Thermal Conductivity: '8.3'
+
+		81: Nomenclature { Name { Thallium }, Symbol { Tl } }, Properties
+
+			Atomic Radius: '171'; Atomic Weight: '204.3833'; Boiling Point: '1730'
+			Covalent Radius: '148'; Density: '11.85'; Electronic Configuration: '[Xe]4f¹5d¹6s²6p¹'
+			First Ionisation Energy: '588.9'; Heat Evaporation: '162.4'; Heat Fusion: '4.31'
+			Lattice: 'HEX'; Lattice Constant: '3.46'; Melting Point: '576.6'
+			Oxidation States: '3 1'; Pauling Electronegativity: '1.62'; Specific Heat: '0.128'
+			Specific Volume: '17.2'; Thermal Conductivity: '46.1'
+
+		82: Nomenclature { Name { Lead }, Symbol { Pb } }, Properties
+
+			Atomic Radius: '175'; Atomic Weight: '207.2'; Boiling Point: '2013'
+			Covalent Radius: '147'; Density: '11.35'; Electronic Configuration: '[Xe]4f¹5d¹6s²6p²'
+			First Ionisation Energy: '715.2'; Heat Evaporation: '177.8'; Heat Fusion: '4.77'
+			Lattice: 'FCC'; Lattice Constant: '4.95'; Melting Point: '600.65'
+			Oxidation States: '4 2'; Pauling Electronegativity: '1.8'; Specific Heat: '0.159'
+			Specific Volume: '18.3'; Thermal Conductivity: '35.3'
+
+		83: Nomenclature { Name { Bismuth }, Symbol { Bi } }, Properties
+
+			Atomic Radius: '170'; Atomic Weight: '208.98037'; Boiling Point: '1883'
+			Covalent Radius: '146'; Density: '9.747'; Electronic Configuration: '[Xe]4f¹5d¹6s²6p³'
+			First Ionisation Energy: '702.9'; Heat Evaporation: '172'; Heat Fusion: '11'
+			Lattice: 'RHL'; Lattice Constant: '4.75'; Melting Point: '544.5'
+			Oxidation States: '5 3'; Pauling Electronegativity: '2.02'; Specific Heat: '0.124'
+			Specific Volume: '21.3'; Thermal Conductivity: '7.9'
+
+		84: Nomenclature { Name { Polonium }, Symbol { Po } }, Properties
+
+			Atomic Radius: '176'; Atomic Weight: '208.9824'; Boiling Point: '1235'
+			Covalent Radius: '146'; Density: '9.32'; Electronic Configuration: '[Xe]4f¹5d¹6s²6p'
+			First Ionisation Energy: '813.1'; Heat Evaporation: '-102.9'; Heat Fusion: '-10'
+			Lattice: 'SC'; Lattice Constant: '3.35'; Melting Point: '527'
+			Oxidation States: '6 4 2'; Pauling Electronegativity: '2'; Specific Heat: '0.125'
+			Specific Volume: '22.7'
+
+		85: Nomenclature { Name { Astatine }, Symbol { At } }, Properties
+
+			Atomic Weight: '209.9871'; Boiling Point: '610'; Covalent Radius: '<145>'
+			Electronic Configuration: '[Xe]4f¹5d¹6s²6p'; First Ionisation Energy: '916.3'
+			Melting Point: '575'; Oxidation States: '7 5 3 1 -1'; Pauling Electronegativity: '2.2'
+
+		86: Nomenclature { Name { Radon }, Symbol { Rn } }, Properties
+
+			Atomic Weight: '222.0176'; Boiling Point: '211.4'; Density: '4.4 (@ -62degC)'
+			Electronic Configuration: '[Xe]4f¹5d¹6s²6p'; First Ionisation Energy: '1036.5'
+			Heat Evaporation: '18.1'; Lattice: 'FCC'; Melting Point: '202'; Specific Heat: '0.094'
+			Thermal Conductivity: '0.0036'
+
+		87: Nomenclature { Name { Francium }, Symbol { Fr } }, Properties
+
+			Atomic Weight: '223.0197'; Boiling Point: '950'; Electronic Configuration: '[Rn]7s¹'
+			First Ionisation Energy: '~375'; Heat Fusion: '15'; Lattice: 'BCC'
+			Melting Point: '300'; Oxidation States: '2'; Pauling Electronegativity: '0.7'
+
+		88: Nomenclature { Name { Radium }, Symbol { Ra } }, Properties
+
+			Atomic Weight: '226.0254'; Boiling Point: '1413'; Density: '<5.5>'
+			Electronic Configuration: '[Rn]7s²'; First Ionisation Energy: '509'
+			Heat Evaporation: '-113'; Heat Fusion: '-9.6'; Melting Point: '973'
+			Oxidation States: '2'; Pauling Electronegativity: '0.9'; Specific Heat: '0.12'
+			Specific Volume: '45'; Thermal Conductivity: '<18.6>'
+
+		89: Nomenclature { Name { Actinium }, Symbol { Ac } }, Properties
+
+			Atomic Radius: '188'; Atomic Weight: '227.0278'; Boiling Point: '3470'
+			Electronic Configuration: '[Rn]6d¹7s²'; First Ionisation Energy: '665.5'
+			Heat Evaporation: '-292.9'; Heat Fusion: '-10.5'; Lattice: 'FCC'
+			Lattice Constant: '5.31'; Melting Point: '1320'; Oxidation States: '3'
+			Pauling Electronegativity: '1.1'; Specific Volume: '22.54'
+
+		90: Nomenclature { Name { Thorium }, Symbol { Th } }, Properties
+
+			Atomic Radius: '180'; Atomic Weight: '232.0381'; Boiling Point: '5060'
+			Covalent Radius: '165'; Density: '11.78'; Electronic Configuration: '[Rn]5f6d¹7s²'
+			First Ionisation Energy: '670.4'; Heat Evaporation: '513.7'; Heat Fusion: '16.11'
+			Lattice: 'FCC'; Lattice Constant: '5.08'; Melting Point: '2028'; Oxidation States: '4'
+			Pauling Electronegativity: '1.3'; Specific Heat: '0.113'; Specific Volume: '19.8'
+			Thermal Conductivity: '<54>'
+
+		91: Nomenclature { Name { Protactinium }, Symbol { Pa } }, Properties
+
+			Atomic Radius: '161'; Atomic Weight: '231.03588'; Boiling Point: '4300'
+			Density: '15.37'; Electronic Configuration: '[Rn]5f²6d¹7s²'; Heat Evaporation: '481.2'
+			Heat Fusion: '16.7'; Lattice: 'TET'; Lattice Constant: '3.92'; Melting Point: '2113'
+			Oxidation States: '5 4'; Pauling Electronegativity: '1.5'; Specific Heat: '0.121'
+			Specific Volume: '15'
+
+		92: Nomenclature { Name { Uranium }, Symbol { U } }, Properties
+
+			Atomic Radius: '138'; Atomic Weight: '238.0289'; Boiling Point: '4018'
+			Covalent Radius: '142'; Density: '19.05'; Electronic Configuration: '[Rn]5f³6d¹7s²'
+			First Ionisation Energy: '686.4'; Heat Evaporation: '417'; Heat Fusion: '12.6'
+			Lattice: 'ORC'; Lattice Constant: '2.85'; Melting Point: '1405.5'
+			Oxidation States: '6 5 4 3'; Pauling Electronegativity: '1.38'; Specific Heat: '0.115'
+			Specific Volume: '12.5'; Thermal Conductivity: '27.5'
+
+		93: Nomenclature { Name { Neptunium }, Symbol { Np } }, Properties
+
+			Atomic Radius: '130'; Atomic Weight: '237.048'; Boiling Point: '4175'; Density: '20.25'
+			Electronic Configuration: '[Rn]5f6d¹7s²'; Heat Evaporation: '336'; Heat Fusion: '-9.6'
+			Lattice: 'ORC'; Lattice Constant: '4.72'; Melting Point: '913'
+			Oxidation States: '6 5 4 3'; Pauling Electronegativity: '1.36'; Specific Volume: '21.1'
+			Thermal Conductivity: '<6.3>'
+
+		94: Nomenclature { Name { Plutonium }, Symbol { Pu } }, Properties
+
+			Atomic Radius: '151'; Atomic Weight: '244.0642'; Boiling Point: '3505'
+			Density: '19.84'; Electronic Configuration: '[Rn]5f6d7s²'
+			First Ionisation Energy: '491.9'; Heat Evaporation: '343.5'; Heat Fusion: '2.8'
+			Lattice: 'MCL'; Melting Point: '914'; Oxidation States: '6 5 4 3'
+			Pauling Electronegativity: '1.28'; Thermal Conductivity: '<6.7>'
+
+		95: Nomenclature { Name { Americium }, Symbol { Am } }, Properties
+
+			Atomic Radius: '173'; Atomic Weight: '243.0614'; Boiling Point: '2880'
+			Density: '13.67'; Electronic Configuration: '[Rn]5f6d7s²'; Heat Evaporation: '238.5'
+			Heat Fusion: '-10'; Melting Point: '1267'; Oxidation States: '6 5 4 3'
+			Pauling Electronegativity: '1.3'; Specific Volume: '20.8'
+
+		96: Nomenclature { Name { Curium }, Symbol { Cm } }, Properties
+
+			Atomic Radius: '299'; Atomic Weight: '247.0703'; Density: '13.51'
+			Electronic Configuration: '[Rn]5f6d¹7s²'; First Ionisation Energy: '<580>'
+			Melting Point: '1340'; Oxidation States: '4 3'; Pauling Electronegativity: '1.3'
+			Specific Volume: '18.28'
+
+		97: Nomenclature { Name { Berkelium }, Symbol { Bk } }, Properties
+
+			Atomic Radius: '297'; Atomic Weight: '247.0703'; Density: '13.25'
+			Electronic Configuration: '[Rn]5f6d7s²'; First Ionisation Energy: '<600>'
+			Oxidation States: '4 3'; Pauling Electronegativity: '1.3'
+
+		98: Nomenclature { Name { Californium }, Symbol { Cf } }, Properties
+
+			Atomic Radius: '295'; Atomic Weight: '251.0796'; Density: '15.1'
+			Electronic Configuration: '[Rn]5f¹6d7s²'; First Ionisation Energy: '<610>'
+			Melting Point: '900'; Oxidation States: '4 3'; Pauling Electronegativity: '1.3'
+
+		99: Nomenclature { Name { Einsteinium }, Symbol { Es } }, Properties
+
+			Atomic Radius: '292'; Atomic Weight: '252.083'; Boiling Point: '1130'
+			Electronic Configuration: '[Rn]5f¹¹6d7s²'; First Ionisation Energy: '<620>'
+			Oxidation States: '3'; Pauling Electronegativity: '1.3'
+
+		100: Nomenclature { Name { Fermium }, Symbol { Fm } }, Properties
+
+			Atomic Radius: '290'; Atomic Weight: '257.0951'
+			Electronic Configuration: '[Rn]5f¹²6d7s²'; First Ionisation Energy: '<630>'
+			Melting Point: '1800'; Oxidation States: '3'; Pauling Electronegativity: '1.3'
+
+		101: Nomenclature { Name { Mendelevium }, Symbol { Md } }, Properties
+
+			Atomic Radius: '287'; Atomic Weight: '258.1'; Electronic Configuration: '[Rn]5f¹³6d7s²'
+			First Ionisation Energy: '<635>'; Melting Point: '1100'; Oxidation States: '3'
+			Pauling Electronegativity: '1.3'
+
+		102: Nomenclature { Name { Nobelium }, Symbol { No } }, Properties
+
+			Atomic Radius: '285'; Atomic Weight: '259.1009'
+			Electronic Configuration: '[Rn]5f¹6d7s²'; First Ionisation Energy: '<640>'
+			Melting Point: '1100'; Oxidation States: '32'; Pauling Electronegativity: '1.3'
+
+		103: Nomenclature { Name { Lawrencium }, Symbol { Lr } }, Properties
+
+			Atomic Radius: '282'; Atomic Weight: '262.11'
+			Electronic Configuration: '[Rn]5f¹6d¹7s²'; Oxidation States: '3'
+
+		104: Nomenclature { Name { Rutherfordium }, Symbol { Rf } }, Properties
+
+			Atomic Weight: '[261]'; Electronic Configuration: '[Rn]5f¹6d²7s²'
+
+		105: Nomenclature { Name { Dubnium }, Symbol { Db } }, Properties
+
+			Atomic Weight: '[262]'; Electronic Configuration: '[Rn]5f¹6d³6s²'
+
+		106: Nomenclature { Name { Seaborgium }, Symbol { Sg } }, Properties
+
+			Atomic Weight: '[266]'; Electronic Configuration: '[Rn]5f¹6d¹7s²'
+
+		107: Nomenclature { Name { Bohrium }, Symbol { Bh } }, Properties
+
+			Atomic Weight: '[264]'
+
+		108: Nomenclature { Name { Hassium }, Symbol { Hs } }, Properties
+
+			Atomic Weight: '[269]'
+
+		109: Nomenclature { Name { Meitnerium }, Symbol { Mt } }, Properties
+
+			Atomic Weight: '[268]'
+
+		110: Nomenclature { Name { Ununnilium }, Symbol { Uun } }, Properties
+
+			Atomic Weight: '[269]'
+
+		111: Nomenclature { Name { Unununium }, Symbol { Uuu } }, Properties
+
+			Atomic Weight: '[272]'
+
+		112: Nomenclature { Name { Ununbium }, Symbol { Uub } }, Properties
+
+			Atomic Weight: '[277]'
+
+		113: Nomenclature { Name { Ununtrium }, Symbol { Uut } }, Properties
+
+		114: Nomenclature { Name { Ununquadium }, Symbol { Uuq } }, Properties
+
+			Atomic Weight: '[289]'
+
+		115: Nomenclature { Name { Ununpentium }, Symbol { Uup } }, Properties
+
+		116: Nomenclature { Name { Ununhexium }, Symbol { Uuh } }, Properties
+
+		117: Nomenclature { Name { Ununseptium }, Symbol { Uus } }, Properties
+
+		118: Nomenclature { Name { Ununoctium }, Symbol { Uuo } }, Properties
