@@ -29,11 +29,11 @@ and [commentary on the contents of the core](https://github.com/Atlas-of-Kaeon/T
 All of the written documents in the library have been mapped to the ONE and ONE+ text formats,
 which is where the One Library gets its name from.
 
-[ONE](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/1%20-%20Guides/1%20-%20Documentation/1%20-%20ONE/README.md)
+[ONE](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Collection/1%20-%20General/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/1%20-%20ONE/README.md)
 uses minus signs and tab indentation to separate text into a hierarchy of "blocks" without relying
 on any escape characters.
 
-[ONE+](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/1%20-%20Guides/1%20-%20Documentation/2%20-%20ONE%2B/README.md)
+[ONE+](https://github.com/Atlas-of-Kaeon/Atlas-of-Kaeon.github.io/blob/master/Repository%20of%20Kaeon/2%20-%20Collection/1%20-%20General/1%20-%20Documentation/1%20-%20Guides/1%20-%20Utilities/2%20-%20ONE/2%20-%20ONE%2B/README.md)
 is a superset of ONE which provides more ways to encode text blocks, and is thus easier to write
 manually.
 

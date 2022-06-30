@@ -1,6 +1,6 @@
 <h1 align="center">Christian Scripture Commentary</h1>
 
-_The Christian scripture is tied heavily to the Jewish Scripture that preceded it. To learn more about the Jewish holy texts, click [here](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/1%20-%20Guides/3%20-%20Contents/1%20-%20Scripture/1%20-%20Jewish/README.md)._
+_The Christian scripture is tied heavily to the Jewish Scripture that preceded it. To learn more about the Jewish holy texts, click [here](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Collection/1%20-%20References/1%20-%20Guides/2%20-%20Contents/1%20-%20Scripture/1%20-%20Jewish/README.md)._
 
 <h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Core/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/1%20-%20Common/1%20-%20The%20New%20Testament/The%20New%20Testament.one">1: The New Testament</a></h2>
 
