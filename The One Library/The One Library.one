@@ -907,8 +907,8 @@
 						Path
 					-
 						-
-							Core, Literature, Texts, Expressive, Religious, Western, The Divine
-							Comedy
+							Core, Literature, Texts, Expressive, Theistic, Religious, Western, The
+							Divine Comedy
 						-
 				-
 					Journey to the West
@@ -917,18 +917,8 @@
 						Path
 					-
 						-
-							Core, Literature, Texts, Expressive, Religious, Eastern, Journey to the
-							West
-						-
-				-
-					Nightmare Number Three
-				-
-					-
-						Path
-					-
-						-
-							Core, Literature, Texts, Expressive, Poetry, Stephen Vincent Benet,
-							Nightmare Number Three
+							Core, Literature, Texts, Expressive, Theistic, Religious, Eastern,
+							Journey to the West
 						-
 				-
 					Beowulf
@@ -937,7 +927,28 @@
 						Path
 					-
 						-
-							Core, Literature, Texts, Expressive, Mythical, Midieval, Beowulf
+							Core, Literature, Texts, Expressive, Theistic, Mythical, Midieval,
+							Beowulf
+						-
+				-
+					Nightmare Number Three
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Expressive, Secular, Short, Poetry, Stephen
+							Vincent Benet, Nightmare Number Three
+						-
+				-
+					The Complete Works of William Shakespeare
+				-
+					-
+						Path
+					-
+						-
+							Core, Literature, Texts, Expressive, Secular, Long, Theater,
+							Shakespeare, The Complete Works
 						-
 				-
 					Crime and Punishment
@@ -946,8 +957,8 @@
 						Path
 					-
 						-
-							Core, Literature, Texts, Expressive, Fictional, Dostoevsky, Crime and
-							Punishment
+							Core, Literature, Texts, Expressive, Secular, Long, Novels, Dostoevsky,
+							Crime and Punishment
 						-
 				-
 					TEDAgame - Piano Sounds
