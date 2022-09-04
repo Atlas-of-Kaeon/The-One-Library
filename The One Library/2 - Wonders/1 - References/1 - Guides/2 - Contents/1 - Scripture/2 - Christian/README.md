@@ -84,10 +84,10 @@ liturgical version.
 </p>
 
 There are 66 books of the Christian Bible that are common to all mainstream denominations of
-Christianity. Most protestant churches rely solely on these, but some churchs, including the Roman
+Christianity. Most protestant churches rely solely on these, but some churches, including the Roman
 Catholic and Eastern Ordthodox churches incorporate additional documents into their scripture.
 
-Any document outside the mainstrem canon that some claim to be divinely inspired is referred to as
+Any document outside the mainstream canon that some claim to be divinely inspired is referred to as
 apocryphal, and any apocryphal document that is used by at least one significant Christian
 denomination is referred to as deuterocanonical.
 
