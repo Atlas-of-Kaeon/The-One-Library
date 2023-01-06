@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/2%20-%20Islam/1%20-%20The%20Quran/The%20Quran.one">1: The Quran</a></h2>
 
 <p align="center">
-	<img src="https://3m7ajlsrzj92lfd1hu16hu7vc-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Quran-660x350.jpg" height="300px"/>
+	<img src="https://wallpapercave.com/wp/LJ2m3L4.jpg" height="300px"/>
 </p>
 
 The Quran, which roughly translates to "the recitation", is the central sacred text of the Islamic
