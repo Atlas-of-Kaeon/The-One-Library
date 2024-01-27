@@ -94,7 +94,7 @@ denomination is referred to as deuterocanonical.
 The Apocrypha is a collection of all deuterocanonical Christian books. These documents mostly
 relate to the Old Testament, although most Jews do not recognize them as relavent to the Tanakh.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/2%20-%20Specific/2%20-%20LDS/1%20-%20Book%20of%20Mormon/The%20Book%20of%20Mormon.one">4: The Book of Mormon</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/2%20-%20Specific/1%20-%20LDS/1%20-%20Book%20of%20Mormon/The%20Book%20of%20Mormon.one">4: The Book of Mormon</a></h2>
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Mormon-book.jpg" height="300px"/>
