@@ -77,7 +77,7 @@ faith throughout Christendom.
 The original Nicene creed was written in Greek, and the One Library uses the English
 liturgical version.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/2%20-%20Specific/1%20-%20The%20Apocrypha/The%20Apocrypha.one">3: The Apocrypha</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/2%20-%20Apocrypha/1%20-%20Deuterocanon/The%20Deuterocanonical%20Apocrypha.one">3: The Deuterocanonical Apocrypha</a></h2>
 
 <p align="center">
 	<img src="https://i.pinimg.com/originals/44/b2/71/44b271c99eb7f9967e4bbec5fed679de.jpg" height="300px"/>
