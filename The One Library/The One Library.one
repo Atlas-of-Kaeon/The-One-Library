@@ -111,8 +111,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Common, The Tanakh, The Torah
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Common, The Tanakh, The Torah
 						-
 				-
 					The Prophets and the Writings
@@ -121,8 +121,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Common, The Tanakh, The Prophets and the Writings
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Common, The Tanakh, The Prophets and the Writings
 						-
 				-
 					The Deuterocanonical Apocrypha
@@ -131,8 +131,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							common, Apocrypha, Deuterocanon
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, common, Apocrypha, Deuterocanon
 						-
 				-
 					The Mishnah
@@ -141,8 +141,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Jewish, The Mishnah
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, The Mishnah
 						-
 				-
 					The Babylonian Talmud
@@ -151,9 +151,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Jewish, The Mishnah, The Talmud, Babylonian, The Babylonian
-							Talmud
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, The Mishnah, The Talmud, Babylonian,
+							The Babylonian Talmud
 						-
 				-
 					The Jerusalem Talmud
@@ -162,9 +162,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Jewish, The Mishnah, The Talmud, Jerusalem, The Jerusalem
-							Talmud
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, The Mishnah, The Talmud, Jerusalem,
+							The Jerusalem Talmud
 						-
 				-
 					Sefer Yetzirah
@@ -173,8 +173,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Jewish, Kabbalah, Sefer Yetzirah
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, Kabbalah, Sefer Yetzirah
 						-
 				-
 					The Zohar
@@ -183,8 +183,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Jewish, Kabbalah, The Zohar
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, Kabbalah, The Zohar
 						-
 				-
 					The New Testament
@@ -193,8 +193,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Common, The New Testament
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Common, The New Testament
 						-
 				-
 					The Nicene Creed
@@ -203,8 +203,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Common, Treatises, Creeds, The Nicene Creed
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Common, Treatises, Creeds, The
+							Nicene Creed
 						-
 				-
 					The Didache
@@ -213,8 +214,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Common, Treatises, Apostolic Fathers, The Didache
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Common, Treatises, Apostolic
+							Fathers, The Didache
 						-
 				-
 					The Book of Mormon
@@ -223,8 +225,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Specific, LDS, Book of Mormon
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon
 						-
 				-
 					Commentary on the Book of Mormon
@@ -233,8 +235,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Specific, LDS, Book of Mormon, Mormon Commentary
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Mormon Commentary
 						-
 				-
 					The Testimony of the Three Witnesses
@@ -243,8 +246,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Specific, LDS, Book of Mormon, Testimony, Three
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Testimony, Three
 						-
 				-
 					The Testimony of the Eight Witnesses
@@ -253,8 +257,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Specific, LDS, Book of Mormon, Testimony, Eight
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Testimony, Eight
 						-
 				-
 					The Testimony of the Prophet Joseph Smith
@@ -263,9 +268,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Judeo-Christian,
-							Specific, Christian, Specific, LDS, Book of Mormon, Testimony, Joseph
-							Smith
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Testimony, Joseph Smith
 						-
 				-
 					The Quran
@@ -274,7 +279,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Islam, The Quran
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Islam, The Quran
 						-
 				-
 					The Kitab-i-Aqdas
@@ -283,8 +289,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Islam, The Bahai
-							Faith, The Kitab-i-Aqdas
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Islam, The Bahai Faith, The Kitab-i-Aqdas
 						-
 				-
 					The Kitab-i-Iqan
@@ -293,108 +299,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Abrahamic, Islam, The Bahai
-							Faith, The Kitab-i-Iqan
-						-
-				-
-					The Rig Veda
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Rig
-							Veda
-						-
-				-
-					The Yajur Veda
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Yajur
-							Veda
-						-
-				-
-					The Sama Veda
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Vedas, Sama
-							Veda
-						-
-				-
-					The Atharva Veda
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Vedas,
-							Atharva Veda
-						-
-				-
-					The Ramayana
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Smriti,
-							Itihasa, Ramayana
-						-
-				-
-					The Mahabharata
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Smriti,
-							Itihasa, Mahabharata
-						-
-				-
-					The Yoga Sutras of Patanjali
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Vedic, Yoga, The
-							Yoga Sutras of Patanjali
-						-
-				-
-					Dhammacakkappavattana Sutta
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Buddhist, Theravada,
-							Suttas, Saṃyutta, Dhammacakkappavattana Sutta
-						-
-				-
-					Dhammapada
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Buddhist, Theravada,
-							Suttas, Khuddaka, Dhammapada
-						-
-				-
-					The Lotus Sutra
-				-
-					-
-						Path
-					-
-						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Buddhist, Mahayana,
-							Sutras, The Lotus Sutra
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Islam, The Bahai Faith, The Kitab-i-Iqan
 						-
 				-
 					The Guru Granth Sahib
@@ -403,8 +309,108 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Dharmic, Sikh, The Guru
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Sikh, The Guru
 							Granth Sahib
+						-
+				-
+					The Rig Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Vedas, Rig Veda
+						-
+				-
+					The Yajur Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Vedas, Yajur Veda
+						-
+				-
+					The Sama Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Vedas, Sama Veda
+						-
+				-
+					The Atharva Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Vedas, Atharva Veda
+						-
+				-
+					The Ramayana
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Smriti, Itihasa, Ramayana
+						-
+				-
+					The Mahabharata
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Smriti, Itihasa, Mahabharata
+						-
+				-
+					The Yoga Sutras of Patanjali
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Vedic, Yoga, The Yoga Sutras of Patanjali
+						-
+				-
+					Dhammacakkappavattana Sutta
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Buddhist, Theravada, Suttas, Saṃyutta, Dhammacakkappavattana Sutta
+						-
+				-
+					Dhammapada
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Buddhist, Theravada, Suttas, Khuddaka, Dhammapada
+						-
+				-
+					The Lotus Sutra
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Dharmic,
+							Buddhist, Mahayana, Sutras, The Lotus Sutra
 						-
 				-
 					The Tao Te Ching
@@ -413,7 +419,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Chinese, Taoism, Tao Te Ching
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Chinese,
+							Taoism, Tao Te Ching
 						-
 				-
 					I Ching
@@ -422,8 +429,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Chinese, Confucianism,
-							Classics, I Ching
+							Philosophy, Literature, Texts, Scripture, Panentheistic, Chinese,
+							Confucianism, Classics, I Ching
 						-
 				-
 					The Instructions of Shuruppak
@@ -432,7 +439,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Mesopotamian, The Instructions of Shuruppak
 						-
 				-
@@ -442,7 +449,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Mesopotamian, Kesh Temple Hymn
 						-
 				-
@@ -452,7 +459,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Mesopotamian, The Sumerian Kings List
 						-
 				-
@@ -462,7 +469,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Mesopotamian, Enuma Elis
 						-
 				-
@@ -472,7 +479,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Mesopotamian, The Epic of Gilgamesh
 						-
 				-
@@ -482,7 +489,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Kemetic, The Pyramid Texts
 						-
 				-
@@ -492,7 +499,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Kemetic, The Egyptian Book of the Dead
 						-
 				-
@@ -502,7 +509,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Hellenic, Hesiod, The Theogony
 						-
 				-
@@ -512,7 +519,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Hellenic, Hesiod, Works and Days
 						-
 				-
@@ -522,7 +529,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Hellenic, Homer, The Iliad
 						-
 				-
@@ -532,7 +539,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Hellenic, Homer, The Odyssey
 						-
 				-
@@ -542,7 +549,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Hellenic, Vergil, The Aeneid
 						-
 				-
@@ -552,7 +559,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Pagan, Polytheistic,
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
 							Nordic, Poetic Edda, Völuspá
 						-
 				-
@@ -562,8 +569,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Orders,
-							Freemasonry, The Regius Poem
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Freemasonry, The Regius Poem
 						-
 				-
 					Fama Fraternitatis
@@ -572,8 +579,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Orders,
-							Rosicrucian, Fama Fraternitatis
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Rosicrucian, Fama Fraternitatis
 						-
 				-
 					Confessio Fraternitatis
@@ -582,8 +589,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Orders,
-							Rosicrucian, Confessio Fraternitatis
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Rosicrucian, Confessio Fraternitatis
 						-
 				-
 					The Chymical Wedding of Christian Rosenkreutz
@@ -592,8 +599,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Orders,
-							Rosicrucian, The Chymical Wedding of Christian Rosenkreutz
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Rosicrucian, The Chymical Wedding of Christian Rosenkreutz
 						-
 				-
 					The Sixth Book of Moses
@@ -602,8 +609,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Western,
-							Individuals, Legendary, Moses, The Sixth Book of Moses
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Legendary, Moses, The Sixth Book of Moses
 						-
 				-
 					The Emerald Tablet of Hermes Trismegistus
@@ -612,8 +619,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Western,
-							Individuals, Legendary, Hermes Trismegistus, The Emerald Tablet
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Legendary, Hermes Trismegistus, The Emerald
+							Tablet
 						-
 				-
 					The Triangular Book of the Count of St. Germain
@@ -622,8 +630,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Western,
-							Individuals, Legendary, St. Germain, Triangle Book
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Legendary, St. Germain, Triangle Book
 						-
 				-
 					The Book of the Law
@@ -632,8 +640,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Western,
-							Individuals, Aleister Crowley, The Book of the Law
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Aleister Crowley, The Book of the Law
 						-
 				-
 					Liber B vel Magi
@@ -642,8 +650,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, Folk, Esotericism, Western,
-							Individuals, Aleister Crowley, Texts, Liber B vel Magi
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Aleister Crowley, Texts, Liber B vel Magi
 						-
 				-
 					The Wiccan Rede
@@ -652,8 +660,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Neopaganism, Wicca, The
-							Wiccan Rede
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, The Wiccan Rede
 						-
 				-
 					The Charge of the Goddess
@@ -662,8 +670,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Neopaganism, Wicca,
-							Charges, The Charge of the Goddess
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, Charges, The Charge of the Goddess
 						-
 				-
 					The Charge of the God
@@ -672,8 +680,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Neopaganism, Wicca,
-							Charges, The Charge of the God
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, Charges, The Charge of the God
 						-
 				-
 					The Gardnerian Book of Shadows
@@ -682,8 +690,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Neopaganism, Wicca, Book
-							of Shadows, Gardnerian
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, Book of Shadows, Gardnerian
 						-
 				-
 					The Tenets of Unitarian Universalism
@@ -692,7 +700,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
+							Philosophy, Literature, Texts, Scripture, Humanist, Liberal Religion,
 							Unitarian Universalism, Tenets
 						-
 				-
@@ -702,7 +710,7 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
+							Philosophy, Literature, Texts, Scripture, Humanist, Liberal Religion,
 							Unitarian Universalism, Tenet, Eighth Tenet
 						-
 				-
@@ -712,8 +720,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Humanism, Humanist Manifesto, I
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Humanism,
+							Humanist Manifesto, I
 						-
 				-
 					Humanist Manifesto II
@@ -722,8 +730,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Humanism, Humanist Manifesto, II
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Humanism,
+							Humanist Manifesto, II
 						-
 				-
 					Humanist Manifesto III
@@ -732,8 +740,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Humanism, Humanist Manifesto, III
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Humanism,
+							Humanist Manifesto, III
 						-
 				-
 					Amsterdam Declaration 1952
@@ -742,8 +750,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Humanism, Amsterdam Declaration, 1952
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Humanism,
+							Amsterdam Declaration, 1952
 						-
 				-
 					Amsterdam Declaration 2002
@@ -752,8 +760,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Humanism, Amsterdam Declaration, 2002
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Humanism,
+							Amsterdam Declaration, 2002
 						-
 				-
 					A Secular Humanist Declaration
@@ -762,8 +770,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Humanism, A Secular Humanist Declaration
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Humanism, A
+							Secular Humanist Declaration
 						-
 				-
 					The Founding Address of the American Ethical Union
@@ -772,8 +780,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Ethical Culture, American Ethical Union, Founding Address
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Ethical
+							Culture, American Ethical Union, Founding Address
 						-
 				-
 					The World Pantheist Movement Statement of Principles of Scientific Pantheism
@@ -782,8 +790,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Scripture, New, Liberal Religion,
-							Secular, Pantheism, WPM Statement
+							Philosophy, Literature, Texts, Scripture, Humanist Secular, Pantheism,
+							WPM Statement
 						-
 				-
 					The Republic
@@ -952,7 +960,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Global, The United Nations, Charter
+							Philosophy, Literature, Texts, Records, Law, Global, The United
+							Nations, Charter
 						-
 				-
 					The Universal Declaration of Human Rights
@@ -961,8 +970,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Global, The United Nations,
-							Universal Declaration of Human Rights
+							Philosophy, Literature, Texts, Records, Law, Global, The United
+							Nations, Universal Declaration of Human Rights
 						-
 				-
 					The Declaration of Independence
@@ -971,9 +980,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, National, Active, North America,
-							The United States of America, Organic Laws, Pre-Constitutional,
-							Declaration of Independence
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Pre-Constitutional, Declaration of
+							Independence
 						-
 				-
 					The Articles of Confederation
@@ -982,9 +991,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, National, Active, North America,
-							The United States of America, Organic Laws, Pre-Constitutional,
-							Articles of Confederation
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Pre-Constitutional, Articles of
+							Confederation
 						-
 				-
 					The Ordinance of 1787 for The Northwest Territorial Government
@@ -993,19 +1002,18 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, National, Active, North America,
-							The United States of America, Organic Laws, Pre-Constitutional, The
-							Ordinance of 1787
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Pre-Constitutional, The Ordinance of 1787
 						-
 				-
-					The Constitution of the United States of America
+					The Constitution of USA
 				-
 					-
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, National, Active, North America,
-							The United States of America, Organic Laws, Constitution
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Constitution
 						-
 				-
 					Magna Carta
@@ -1014,8 +1022,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, National, Active, Europe, Magna
-							Carta
+							Philosophy, Literature, Texts, Records, Law, National, Active, Europe,
+							Magna Carta
 						-
 				-
 					The Declaration of Independence of the State of Israel
@@ -1024,8 +1032,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, National, Active, Asia, Israel,
-							Declaration of Independence
+							Philosophy, Literature, Texts, Records, Law, National, Active, Asia,
+							Israel, Declaration of Independence
 						-
 				-
 					The Code of Hammurabi
@@ -1034,8 +1042,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Historical, Ancient, Asia, Babylon,
-							Code of Hammurabi
+							Philosophy, Literature, Texts, Records, Law, Historical, Ancient, Asia,
+							Babylon, Code of Hammurabi
 						-
 				-
 					The Twelve Tables
@@ -1044,8 +1052,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Historical, Ancient, Europe, Rome,
-							The Twelve Tables
+							Philosophy, Literature, Texts, Records, Law, Historical, Ancient,
+							Europe, Rome, The Twelve Tables
 						-
 				-
 					Declaration of the Rights of Man and of the Citizen
@@ -1054,8 +1062,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Historical, Modern, Europe, France,
-							French Revolution, RIghts of Man
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, France, French Revolution, RIghts of Man
 						-
 				-
 					The Weimar Constitution
@@ -1064,8 +1072,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Historical, Modern, Europe,
-							Germany, Weimar Constitution
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, Germany, Weimar Constitution
 						-
 				-
 					The Reichstag Fire Decree
@@ -1074,8 +1082,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Historical, Modern, Europe,
-							Germany, Weimar Constitution, Nazi Policy, The Reichstag Fire Decree
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, Germany, Weimar Constitution, Nazi Policy, The Reichstag Fire
+							Decree
 						-
 				-
 					The Enabling Act of 1933
@@ -1084,8 +1093,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Law, Historical, Modern, Europe,
-							Germany, Weimar Constitution, Nazi Policy, The Enabling Act of 1933
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, Germany, Weimar Constitution, Nazi Policy, The Enabling Act of
+							1933
 						-
 				-
 					South Carolina Ordinance of Secession
@@ -1094,8 +1104,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, American Wars, Civil
-							War, Secession, South Carolina
+							Philosophy, Literature, Texts, Records, Historical, Wars, American
+							Wars, Civil War, Secession, South Carolina
 						-
 				-
 					The Emancipation Proclamation
@@ -1104,8 +1114,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, American Wars, Civil
-							War, Orders, The Emancipation Proclamation
+							Philosophy, Literature, Texts, Records, Historical, Wars, American
+							Wars, Civil War, Orders, The Emancipation Proclamation
 						-
 				-
 					The Civil War Terms of Surrender
@@ -1114,8 +1124,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, American Wars, Civil
-							War, Surrender, Terms
+							Philosophy, Literature, Texts, Records, Historical, Wars, American
+							Wars, Civil War, Surrender, Terms
 						-
 				-
 					The Civil War Acceptance of Surrender
@@ -1124,8 +1134,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, American Wars, Civil
-							War, Surrender, Acceptance
+							Philosophy, Literature, Texts, Records, Historical, Wars, American
+							Wars, Civil War, Surrender, Acceptance
 						-
 				-
 					To My Peoples
@@ -1134,8 +1144,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, World Wars, WWI, To My
-							Peoples
+							Philosophy, Literature, Texts, Records, Historical, Wars, World Wars,
+							WWI, To My Peoples
 						-
 				-
 					The Molotov-Ribbentrop Pact
@@ -1144,8 +1154,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, World Wars, WWII,
-							Official Documents, International, The Molotov-Ribbentrop pact
+							Philosophy, Literature, Texts, Records, Historical, Wars, World Wars,
+							WWII, Official Documents, International, The Molotov-Ribbentrop pact
 						-
 				-
 					The Japanese Instrument of Surrender
@@ -1154,8 +1164,9 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, World Wars, WWII,
-							Official Documents, International, The Japanese Instrument of Surrender
+							Philosophy, Literature, Texts, Records, Historical, Wars, World Wars,
+							WWII, Official Documents, International, The Japanese Instrument of
+							Surrender
 						-
 				-
 					The Szilard Petition
@@ -1164,8 +1175,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, World Wars, WWII,
-							Official Documents, Domestic, The Szilard Petition
+							Philosophy, Literature, Texts, Records, Historical, Wars, World Wars,
+							WWII, Official Documents, Domestic, The Szilard Petition
 						-
 				-
 					Anne Frank - The Diary of a Young Girl
@@ -1174,8 +1185,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Wars, World Wars, WWII,
-							Accounts, Anne Frank, The Diary of a Young Girl
+							Philosophy, Literature, Texts, Records, Historical, Wars, World Wars,
+							WWII, Accounts, Anne Frank, The Diary of a Young Girl
 						-
 				-
 					The Balfour Declaration
@@ -1184,8 +1195,8 @@
 						Path
 					-
 						-
-							Philosophy, Literature, Texts, Historical, Correspondence, Diplomacy,
-							The Balfour Declaration
+							Philosophy, Literature, Texts, Records, Historical, Correspondence,
+							Diplomacy, The Balfour Declaration
 						-
 				-
 					The Divine Comedy
