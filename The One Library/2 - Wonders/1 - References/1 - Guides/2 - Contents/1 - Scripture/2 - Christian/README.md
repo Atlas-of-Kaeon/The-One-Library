@@ -2,7 +2,7 @@
 
 _The Christian scripture is tied heavily to the Jewish Scripture that preceded it. To learn more about the Jewish holy texts, click [here](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Wonders/1%20-%20References/1%20-%20Guides/2%20-%20Contents/1%20-%20Scripture/1%20-%20Jewish/README.md)._
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/1%20-%20Common/1%20-%20The%20New%20Testament/The%20New%20Testament.one">1: The New Testament</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/1%20-%20Common/1%20-%20The%20New%20Testament/The%20New%20Testament.one">1: The New Testament</a></h2>
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/KJV-King-James-Version-Bible-first-edition-title-page-1611.jpg" height="300px"/>
@@ -58,7 +58,7 @@ damned to hell, thus ending history.
 The English translation hosted on the One Library uses the text of the King James version of
 the Bible.
 
-<h2 align="center"><a href="https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/1%20-%20Common/2%20-%20The%20Nicene%20Creed/The%20Nicene%20Creed.one">2: The Nicene Creed</a></h2>
+<h2 align="center"><a href="https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/1%20-%20Common/2%20-%20The%20Nicene%20Creed/The%20Nicene%20Creed.one">2: The Nicene Creed</a></h2>
 
 <p align="center">
 	<img src="https://media.thegospelcoalition.org/wp-content/uploads/2020/06/14122034/Was-the-Biblical-Canon-Established-at-the-Council-of-Nicaea-1920x1080.jpg" height="300px"/>
@@ -77,7 +77,7 @@ faith throughout Christendom.
 The original Nicene creed was written in Greek, and the One Library uses the English
 liturgical version.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/2%20-%20Apocrypha/1%20-%20Deuterocanon/The%20Deuterocanonical%20Apocrypha.one">3: The Deuterocanonical Apocrypha</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/2%20-%20Apocrypha/1%20-%20Deuterocanon/The%20Deuterocanonical%20Apocrypha.one">3: The Deuterocanonical Apocrypha</a></h2>
 
 <p align="center">
 	<img src="https://i.pinimg.com/originals/44/b2/71/44b271c99eb7f9967e4bbec5fed679de.jpg" height="300px"/>
@@ -94,7 +94,7 @@ denomination is referred to as deuterocanonical.
 The Apocrypha is a collection of all deuterocanonical Christian books. These documents mostly
 relate to the Old Testament, although most Jews do not recognize them as relavent to the Tanakh.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/2%20-%20Specific/1%20-%20LDS/1%20-%20Book%20of%20Mormon/The%20Book%20of%20Mormon.one">4: The Book of Mormon</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/Atlas-of-Kaeon/The-One-Library/master/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/2%20-%20Christian/2%20-%20Specific/1%20-%20LDS/1%20-%20Book%20of%20Mormon/The%20Book%20of%20Mormon.one">4: The Book of Mormon</a></h2>
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Mormon-book.jpg" height="300px"/>
