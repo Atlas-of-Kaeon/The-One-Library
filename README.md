@@ -19,7 +19,7 @@ documents, including its archived texts and references for them.
 The Wonders section of the One Library contains all of the Library's assets that are not plain text
 documents.
 
-In addition to its [digital asset archive](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Wonders/2%20-%20Assets/1%20-%20Art/1%20-%20Audio/1%20-%20Sound%20Effects/1%20-%20Instruments),
+In addition to its [digital asset archive](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Wonders/2%20-%20Assets/1%20-%20Art/),
 it also contains [links to various external archives](https://github.com/Atlas-of-Kaeon/The-One-Library/blob/master/The%20One%20Library/2%20-%20Wonders/1%20-%20References/1%20-%20Guides/1%20-%20Archives/README.md),
 [references to external assets](https://github.com/Atlas-of-Kaeon/The-One-Library/tree/master/The%20One%20Library/2%20-%20Wonders/2%20-%20Assets),
 and [commentary on the contents of the Philosophy section](https://github.com/Atlas-of-Kaeon/The-One-Library/tree/master/The%20One%20Library/2%20-%20Wonders/1%20-%20References/2%20-%20Navigation/README.md).
